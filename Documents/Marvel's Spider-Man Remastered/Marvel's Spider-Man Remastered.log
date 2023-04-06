@@ -1,0 +1,1411 @@
+21:00:32:597 (00010256) > [Startup] Marvel's Spider-Man Remastered
+21:00:32:598 (00010256) > [Startup] ==============
+21:00:32:598 (00010256) > [Startup] 
+21:00:32:598 (00010256) > [Startup] Build: v1.812.1.0
+21:00:32:598 (00010256) > [Startup] Windows 11.0 (build 22621)
+21:00:32:598 (00010256) > [Startup] Game directory: C:\Users\<username>\Documents\Marvel's Spider-Man Remastered\
+21:00:32:598 (00010256) > [Startup] 
+21:00:32:598 (00010256) > [Startup] Memory statistics:
+21:00:32:598 (00010256) > [Startup]   Total RAM = 15.7 GB (16044 MB)
+21:00:32:598 (00010256) > [Startup]   Avail RAM = 10.8 GB (11041 MB)
+21:00:32:598 (00010256) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+21:00:32:598 (00010256) > [Startup]   Avail virtual memory = 131062.7 GB (134208165 MB)
+21:00:32:598 (00010256) > [Startup]   Total page file = 18.5 GB (18988 MB)
+21:00:32:598 (00010256) > [Startup]   Avail page file = 10.4 GB (10612 MB)
+21:00:32:598 (00010256) > [Startup] 
+21:00:32:598 (00010256) > [NxApp] PreInit
+21:00:32:598 (00010256) > [SwapChain] Initializing...
+21:00:32:598 (00010256) > [DXGI] Initializing...
+21:00:32:602 (00010256) > [DXGI] Successfully initialized.
+21:00:32:602 (00010256) > [Render] Enumerating adapters:
+21:00:32:602 (00010256) > [Render] 	Adapter 0:
+21:00:32:602 (00010256) > [Monitor] 		Description             : NVIDIA GeForce RTX 3070 Ti Laptop GPU
+21:00:32:602 (00010256) > [Monitor] 		Vendor                  : nVidia (10de)
+21:00:32:602 (00010256) > [Monitor] 		Device                  : 24a0
+21:00:32:602 (00010256) > [Monitor] 		Sub system              : 1c921043
+21:00:32:602 (00010256) > [Monitor] 		Revision                : 161
+21:00:32:602 (00010256) > [Monitor] 		Dedicated Video Memory  : 8032 MB
+21:00:32:602 (00010256) > [Monitor] 		Dedicated System Memory : 0000 MB
+21:00:32:602 (00010256) > [Monitor] 		Shared System Memory    : 8022 MB
+21:00:32:602 (00010256) > [Monitor] 
+21:00:32:602 (00010256) > [Render] Loading NVAPI...
+21:00:32:604 (00010256) > [Render] Done loading NVAPI
+21:00:32:604 (00010256) > [Render] 	Adapter 1:
+21:00:32:604 (00010256) > [Monitor] 		Description             : Intel(R) Iris(R) Xe Graphics
+21:00:32:604 (00010256) > [Monitor] 		Vendor                  : Intel (8086)
+21:00:32:604 (00010256) > [Monitor] 		Device                  : 46a6
+21:00:32:604 (00010256) > [Monitor] 		Sub system              : 1c921043
+21:00:32:604 (00010256) > [Monitor] 		Revision                : 12
+21:00:32:604 (00010256) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+21:00:32:604 (00010256) > [Monitor] 		Dedicated System Memory : 0000 MB
+21:00:32:604 (00010256) > [Monitor] 		Shared System Memory    : 8022 MB
+21:00:32:604 (00010256) > [Monitor] 
+21:00:32:604 (00010256) > [Render] 	Adapter 2:
+21:00:32:604 (00010256) > [Monitor] 		Description             : Microsoft Basic Render Driver
+21:00:32:604 (00010256) > [Monitor] 		Vendor                  : Unknown (1414)
+21:00:32:604 (00010256) > [Monitor] 		Device                  : 8c
+21:00:32:604 (00010256) > [Monitor] 		Sub system              : 0
+21:00:32:604 (00010256) > [Monitor] 		Revision                : 0
+21:00:32:604 (00010256) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+21:00:32:604 (00010256) > [Monitor] 		Dedicated System Memory : 0000 MB
+21:00:32:604 (00010256) > [Monitor] 		Shared System Memory    : 8022 MB
+21:00:32:604 (00010256) > [Monitor] 
+21:00:32:604 (00010256) > [Render] Enumerating monitors:
+21:00:32:604 (00010256) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+21:00:32:604 (00010256) > [Render] 
+21:00:32:605 (00010256) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+21:00:32:605 (00010256) > [SwapChain] Successfully initialized.
+21:00:32:605 (00010256) > [Render] Enumerating Display Modes:
+21:00:32:606 (00010256) > [Render] Querying NVAPI for Surround modes
+21:00:32:755 (00010256) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+21:00:32:755 (00010256) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3070 Ti Laptop GPU(1))' (0000000000010001):
+21:00:32:755 (00010256) > [Render] 		- Mode  0 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode  1 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode  2 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode  3 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode  4 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode  5 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode  6 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode  7 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode  8 :  800 x  600 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode  9 :  800 x  600 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 10 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 11 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 12 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 13 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 14 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 15 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 16 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 17 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 18 : 1024 x  768 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 19 : 1024 x  768 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 20 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 21 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 22 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 23 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 24 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 25 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 26 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 27 : 1152 x  864 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 28 : 1152 x  864 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 29 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 30 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 31 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 32 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 33 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 34 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 35 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 36 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 37 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 38 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 39 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 40 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 41 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 42 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 43 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 44 : 1280 x  720 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 45 : 1280 x  720 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 46 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 47 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 48 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 49 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 50 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 51 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 52 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 53 : 1280 x  800 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 54 : 1280 x  800 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 55 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 56 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 57 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 58 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 59 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 60 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 61 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 62 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 63 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 64 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 65 : 1280 x  960 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 66 : 1280 x  960 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 67 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 68 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 69 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 70 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 71 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 72 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 73 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 74 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 75 : 1280 x 1024 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 76 : 1280 x 1024 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 77 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 78 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 79 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 80 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 81 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 82 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 83 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 84 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 85 : 1366 x  768 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 86 : 1366 x  768 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 87 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 88 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 89 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 90 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 91 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 92 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 93 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 94 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 95 : 1400 x 1050 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 96 : 1400 x 1050 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 97 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 98 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 99 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 100 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 101 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 102 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 103 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 104 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 105 : 1600 x  900 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 106 : 1600 x  900 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 107 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 108 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 109 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 110 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 111 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 112 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 113 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 114 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 115 : 1600 x 1024 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 116 : 1600 x 1024 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 117 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 118 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 119 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 120 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 121 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 122 : 1600 x 1200 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 123 : 1600 x 1200 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 124 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 125 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 126 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 127 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 128 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 129 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 130 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 131 : 1680 x 1050 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 132 : 1680 x 1050 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 133 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 134 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 135 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 136 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 137 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 138 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 139 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 140 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 141 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 142 : 1920 x 1080 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 143 : 1920 x 1080 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 144 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 145 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 146 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 147 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 148 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 149 : 1920 x 1200 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 150 : 1920 x 1200 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 151 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 152 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 153 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 154 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 155 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 156 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 157 : 1920 x 1440 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 158 : 1920 x 1440 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 159 : 2048 x 1152 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 160 : 2048 x 1152 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 161 : 2048 x 1152 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 162 : 2048 x 1152 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 163 : 2048 x 1152 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 164 : 2048 x 1152 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 165 : 2048 x 1152 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 166 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 167 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 168 : 2560 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 169 : 2560 x 1440 @ 165 Hz, stereo = 0, hdr = 0
+21:00:32:755 (00010256) > [Render] 		- Mode 170 :  800 x  600 @  75 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 171 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 172 :  800 x  600 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 173 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 174 :  800 x  600 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 175 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 176 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 177 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 178 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 179 : 1024 x  768 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 180 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 181 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 182 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 183 : 1152 x  864 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 184 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 185 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 186 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 187 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 188 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 189 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 190 : 1280 x  720 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 191 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 192 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 193 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 194 : 1280 x  800 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 195 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 196 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 197 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 198 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 199 : 1280 x  960 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 200 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 201 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 202 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 203 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 204 : 1280 x 1024 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 205 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 206 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 207 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 208 : 1366 x  768 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 209 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 210 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 211 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 212 : 1400 x 1050 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 213 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 214 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 215 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 216 : 1600 x  900 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 217 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 218 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 219 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 220 : 1600 x 1024 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 221 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 222 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 223 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 224 : 1600 x 1200 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 225 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 226 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 227 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 228 : 1680 x 1050 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 229 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 230 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 231 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 232 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 233 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 234 : 1920 x 1080 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 235 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 236 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 237 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 238 : 1920 x 1200 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 239 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 240 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 241 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 242 : 1920 x 1440 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 243 : 2048 x 1152 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 244 : 2048 x 1152 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 245 : 2048 x 1152 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 246 : 2048 x 1152 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 247 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 248 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 249 : 2560 x 1440 @ 144 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] 		- Mode 250 : 2560 x 1440 @ 165 Hz, stereo = 0, hdr = 1
+21:00:32:755 (00010256) > [Render] ***** Additional Monitor Output Info *****
+21:00:32:755 (00010256) > [Render] 		BitsPerColor: 10
+21:00:32:755 (00010256) > [Render] 		Primaries: R=0.6855;0.3086  G=0.2646;0.6680  B=0.1504;0.0576  White-Point=0.3135;0.3291
+21:00:32:755 (00010256) > [Render] 		HDR: Yes (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G2084_NONE_P2020)
+21:00:32:757 (00010256) > [Render] 		Luminance: Min=0.2465 Max=417.7118 MaxFullFrame=417.7118
+21:00:32:757 (00010256) > [Render] ******************************************
+21:00:32:757 (00010256) > [Render] 
+21:00:32:887 (00010256) > [D3D] Max supported feature level: 11.0
+21:00:32:887 (00010256) > [Render] Disabled D3D12 experimentals
+21:00:32:939 (00010256) > [Render] VMEM Budget: 7264 MB
+21:00:32:939 (00010256) > [Render] VMEM Avaialbe: 7260 MB
+21:00:32:939 (00010256) > [Render] GPU node count: 1
+21:00:32:955 (00010256) > [NxApp] PreInit successful.
+21:00:33:458 (00010256) > [NxUpscaler] DLSS init, code = 0x00000001, info: NVSDK_NGX_Result_Success
+21:00:33:458 (00010256) > [NxUpscaler] DLSS allocate params, code = 0x00000001, info: NVSDK_NGX_Result_Success
+21:00:33:489 (00010256) > [NxApp] Querying GPU Driver Info...
+21:00:33:489 (00010256) > [NxApp] Enumerating available display adapters:
+21:00:33:515 (00010256) > [NxApp] 		NVIDIA GeForce RTX 3070 Ti Laptop GPU (active)
+21:00:33:515 (00010256) > [NxApp] 		Intel(R) Iris(R) Xe Graphics
+21:00:33:515 (00010256) > [NxApp] Successfully found GPU Driver Info
+21:00:35:713 (00010256) > [NxApp] Querying GPU Driver Info...
+21:00:35:713 (00010256) > [NxApp] Enumerating available display adapters:
+21:00:35:717 (00010256) > [NxApp] 		NVIDIA GeForce RTX 3070 Ti Laptop GPU (active)
+21:00:35:717 (00010256) > [NxApp] 		Intel(R) Iris(R) Xe Graphics
+21:00:35:717 (00010256) > [NxApp] Successfully found GPU Driver Info
+21:00:35:717 (00010256) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3070 Ti Laptop GPU
+21:00:35:717 (00010256) > [NxApp] Driver Version: 531.18
+21:00:35:717 (00010256) > [**************************************************Display + Graphics Settings**************************************************] 
+21:00:35:717 (00010256) > [Settings] DirectX Version: 12
+21:00:35:717 (00010256) > [Settings] Window mode: Fullscreen
+21:00:35:717 (00010256) > [Settings] Fullscreen display mode:
+21:00:35:717 (00010256) > [Settings] 	Displaying on monitor: 0
+21:00:35:717 (00010256) > [Settings] 	Resolution: 1920x1080
+21:00:35:717 (00010256) > [Settings] 	OS reported Refresh rate: 165
+21:00:35:717 (00010256) > [Settings] 	VSync: Off
+21:00:35:717 (00010256) > [Settings] 	HDR: Off
+21:00:35:717 (00010256) > [Settings] 	Resolution modifier 1.000000
+21:00:35:717 (00010256) > [Settings] 	Dynamic resolution FPS target: 60
+21:00:35:717 (00010256) > [Settings] Anti aliasing: DLAA
+
+21:00:35:717 (00010256) > [Settings] Upscale method: None
+
+21:00:35:717 (00010256) > [Settings] Upscale quality: Quality
+
+21:00:35:717 (00010256) > [Settings] Graphics Options:
+21:00:35:717 (00010256) > [Settings] 	RT Reflections: On
+21:00:35:718 (00010256) > [Settings] 		RT Reflection Resolution: High
+21:00:35:718 (00010256) > [Settings] 		RT Geometry Detail: High
+21:00:35:718 (00010256) > [Settings] 		RT Object Scale: 0.600000
+21:00:35:718 (00010256) > [Settings] 	Texture Quality: Ultra
+21:00:35:718 (00010256) > [Settings] 	Texture Filtering: Anisotropic16x
+21:00:35:718 (00010256) > [Settings] 	Shadow Quality: High
+21:00:35:718 (00010256) > [Settings] 	Depth of Field: High
+21:00:35:718 (00010256) > [Settings] 	Level of Detail: High
+21:00:35:718 (00010256) > [Settings] 	Vehicle Detail: High
+21:00:35:718 (00010256) > [Settings] 	Crowd Detail: High
+21:00:35:718 (00010256) > [Settings] 	Hair Quality: High
+21:00:35:718 (00010256) > [Settings] 	Ambient Occlusion: SSAO
+21:00:35:718 (00010256) > [Settings] 	Screen Space Reflections: Normal
+21:00:35:718 (00010256) > [Settings] 	Particle Lighting: High
+
+21:00:35:718 (00010256) > [Settings] 	Bloom: On
+21:00:35:718 (00010256) > [Settings] 	Vignette: On
+21:00:35:718 (00010256) > [Settings] 	Chromatic Aberration: On
+21:00:35:718 (00010256) > [Settings] 	Motion Blur: 1.000000
+21:00:35:718 (00010256) > [Settings] 	FOV Correction: 1.000000
+21:00:35:718 (00010256) > [Settings] 	Film Grain Strength: 1.000000
+21:00:35:718 (00010256) > [Settings] 	Lens Flares: On
+21:00:35:718 (00010256) > [Settings] 	Screen Effects: On
+21:00:35:718 (00010256) > [**************************************************Display + Graphics Settings**************************************************] 
+21:00:35:718 (00010256) > [NxApp] Creating window...
+21:00:35:719 (00012328) > [GameWindow] UpdateState bVisible true
+21:00:35:735 (00012328) > [Input] Keyboard language: "English (United States)" (id: 1033)
+21:00:35:735 (00012328) > [Input] Keyboard physical layout: "US" (id: 00000409)
+21:00:35:735 (00012328) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 12 usagePage 1 xinput no
+21:00:35:735 (00012328) > [Input] Joystick            ""   product 50504 vendor 1133 version 1281 usage 1 usagePage 12 xinput no
+21:00:35:735 (00012328) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 1 usagePage 12 xinput no
+21:00:35:735 (00012328) > [Input] Joystick            ""   product 50504 vendor 1133 version 1281 usage 2 usagePage 65280 xinput no
+21:00:35:735 (00012328) > [Input] Joystick            ""   product 50504 vendor 1133 version 1281 usage 1 usagePage 65280 xinput no
+21:00:35:735 (00012328) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 121 usagePage 65329 xinput no
+21:00:35:735 (00012328) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 118 usagePage 65329 xinput no
+21:00:35:735 (00012328) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+21:00:35:735 (00012328) > [Input] Human Input Device  "ASUS Precision Touchpad"   product 12699 vendor 1267 version 2 usage 5 usagePage 13
+21:00:35:735 (00012328) > [Input] Joystick            ""   product 311 vendor 9456 version 256 usage 1 usagePage 12 xinput no
+21:00:35:735 (00012328) > [Input] Joystick            ""   product 1476 vendor 1356 version 256 usage 5 usagePage 1 xinput no
+21:00:35:735 (00012328) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 2 sampleRate 0 horizontalWheel no
+21:00:35:735 (00012328) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+21:00:35:735 (00012328) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 16 sampleRate 0 horizontalWheel no
+21:00:35:735 (00012328) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 113
+21:00:35:735 (00012328) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 488
+21:00:35:735 (00012328) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 128
+21:00:35:736 (00012328) > [Input] Keyboard            "PC/AT Enhanced PS/2 Keyboard (101/102-Key)"   type 4 subType 0 mode 1 function 12 indicators 3 total 101
+21:00:35:750 (00012328) > [Input] Using LibScePad
+21:00:35:762 (00012328) > [XInput] Enumerating available xusb hid devices:
+
+21:00:35:776 (00010256) > [NxApp] Window created.
+21:00:35:776 (00010256) > [NxApp] Initializing swapchain...
+21:00:35:776 (00013344) > [SwapChain] Creating...
+21:00:35:776 (00012328) > [Input] new Windows.Gaming.Input raw-controller found 54c 5c4
+
+21:00:35:776 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:00:35:783 (00013344) > [DXGI] Created swapchain.
+21:00:35:810 (00013344) > [SwapChain] Gamma correction is enabled.
+21:00:35:810 (00013344) > [SwapChain] Successfully created.
+21:00:35:810 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:00:35:810 (00010256) > [NxApp] Swapchain initialized
+21:00:35:810 (00010256) > [NxApp] Initializing renderer...
+21:00:35:810 (00010256) > [NxApp] Renderer initialized
+21:00:35:852 (00010256) > [Render] File cache.pso contains 8933 pipelines and 0 duplicates
+21:00:35:857 (00010256) > [Render] File C:\Users\<username>\AppData\Roaming\Insomniac Games\Marvel's Spider-Man Remastered\\cache.pso contains 66 pipelines and 0 duplicates
+21:00:35:857 (00010256) > [Render] Support for Shader Model 6.6: Yes
+21:00:35:857 (00010256) > [Render] Is UMA: No Is Cache Coherent: No
+21:00:35:857 (00010256) > [Render] Using Cpu Buffer Optimize: No
+21:00:38:365 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+21:00:38:403 (00009984) > [Save] Request type 3 failed with code 0x00000002
+21:00:38:421 (00009984) > [Save] Request type 3 failed with code 0x00000002
+21:00:39:201 (00010256) > [Input] Windows.Gaming.Input controller connected. index: 0
+21:00:39:201 (00010256) > [Input] Sce controller connected. handle: 257
+21:00:39:205 (00010256) > [Audio] Sce-Controller HID\VID_054C&PID_05C4&REV_0100 with handle 257 doesn't support audio
+21:00:39:205 (00010256) > [Input] Gamepads connected: 0 -> 2
+21:00:39:205 (00010256) > [Input] Gamepad for main player: 0
+21:00:39:222 (00010256) > [Input] Windows.Gaming.Input controller disconnected, ignoring PS4 controller. index: 0
+21:00:39:222 (00010256) > [Input] Gamepads connected: 2 -> 1
+21:00:39:222 (00010256) > [Input] Gamepad for main player: 12
+21:00:39:521 (00016912) > [Audio] Sce-Controller HID\VID_054C&PID_05C4&REV_0100 with handle 257 doesn't support audio
+21:00:39:663 (00010256) > [Save] Request load save type -1, control 128, target -1
+21:00:39:663 (00009984) > [Save] Request type 3 failed with code 0x00000002
+21:00:39:683 (00009984) > [Save] Request type 3 failed with code 0x00000002
+21:00:39:698 (00010256) > [Save] Request load save type 0, control 128, target -1
+21:00:39:702 (00009984) > [Save] Request type 3 failed with code 0x00000002
+21:00:39:706 (00010256) > [Save] Request load save type 0, control 128, target -1
+21:00:39:709 (00009984) > [Save] Request type 3 failed with code 0x00000002
+21:00:39:714 (00010256) > [Save] Request load save type 0, control 128, target -1
+21:00:39:718 (00009984) > [Save] Request type 3 failed with code 0x00000002
+21:00:39:722 (00010256) > [Save] Request load save type 0, control 128, target -1
+21:00:39:726 (00009984) > [Save] Request type 3 failed with code 0x00000002
+21:00:39:730 (00010256) > [Save] Request load save type 0, control 128, target -1
+21:00:39:734 (00009984) > [Save] Request type 3 failed with code 0x00000002
+21:00:46:605 (00010256) > [Save] Request load save type 0, control 128, target -1
+21:00:48:779 (00010256) > [Save] Request save type 2, control 0
+21:00:51:816 (00012328) > [Input] removed Windows.Gaming.Input raw-controller 54c 5c4
+
+21:00:52:296 (00012328) > [Input] new Windows.Gaming.Input raw-controller found 54c 5c4
+
+21:00:52:532 (00010256) > [Save] Request save type 0, control 0
+21:03:03:392 (00010256) > [Save] Request save type 0, control 0
+21:03:03:392 (00010256) > [Save] Request save type 0, control 0
+21:03:03:403 (00010256) > [Save] Request save type 0, control 0
+21:06:13:100 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:06:13:106 (00013344) > [DXGI] Resized swapchain.
+21:06:13:122 (00008988) > [Settings] New display settings are:
+21:06:13:122 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:13:122 (00008988) > [Settings] DirectX Version: 12
+21:06:13:122 (00008988) > [Settings] Window mode: Fullscreen
+21:06:13:122 (00008988) > [Settings] Fullscreen display mode:
+21:06:13:122 (00008988) > [Settings] 	Displaying on monitor: 0
+21:06:13:122 (00008988) > [Settings] 	Resolution: 2560x1440
+21:06:13:122 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:06:13:122 (00008988) > [Settings] 	VSync: Off
+21:06:13:122 (00008988) > [Settings] 	HDR: Off
+21:06:13:122 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:06:13:122 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:06:13:122 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:06:13:122 (00008988) > [Settings] Upscale method: None
+
+21:06:13:122 (00008988) > [Settings] Upscale quality: Quality
+
+21:06:13:122 (00008988) > [Settings] Graphics Options:
+21:06:13:122 (00008988) > [Settings] 	RT Reflections: On
+21:06:13:122 (00008988) > [Settings] 		RT Reflection Resolution: High
+21:06:13:122 (00008988) > [Settings] 		RT Geometry Detail: High
+21:06:13:122 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:06:13:122 (00008988) > [Settings] 	Texture Quality: Ultra
+21:06:13:122 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:06:13:122 (00008988) > [Settings] 	Shadow Quality: High
+21:06:13:122 (00008988) > [Settings] 	Depth of Field: High
+21:06:13:122 (00008988) > [Settings] 	Level of Detail: High
+21:06:13:122 (00008988) > [Settings] 	Vehicle Detail: High
+21:06:13:122 (00008988) > [Settings] 	Crowd Detail: High
+21:06:13:122 (00008988) > [Settings] 	Hair Quality: High
+21:06:13:122 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:06:13:122 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:06:13:122 (00008988) > [Settings] 	Particle Lighting: High
+
+21:06:13:122 (00008988) > [Settings] 	Bloom: On
+21:06:13:122 (00008988) > [Settings] 	Vignette: On
+21:06:13:122 (00008988) > [Settings] 	Chromatic Aberration: On
+21:06:13:122 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:06:13:122 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:06:13:122 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:06:13:122 (00008988) > [Settings] 	Lens Flares: On
+21:06:13:122 (00008988) > [Settings] 	Screen Effects: On
+21:06:13:122 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:13:122 (00008988) > [Settings] End of settings.
+21:06:13:122 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:06:13:123 (00010256) > [NxApp] Finished enforcing display settings
+21:06:25:263 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:06:25:263 (00008988) > [Settings] New display settings are:
+21:06:25:263 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:25:263 (00008988) > [Settings] DirectX Version: 12
+21:06:25:263 (00008988) > [Settings] Window mode: Fullscreen
+21:06:25:263 (00008988) > [Settings] Fullscreen display mode:
+21:06:25:263 (00008988) > [Settings] 	Displaying on monitor: 0
+21:06:25:263 (00008988) > [Settings] 	Resolution: 2560x1440
+21:06:25:263 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:06:25:263 (00008988) > [Settings] 	VSync: Off
+21:06:25:263 (00008988) > [Settings] 	HDR: Off
+21:06:25:263 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:06:25:263 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:06:25:263 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:06:25:263 (00008988) > [Settings] Upscale method: None
+
+21:06:25:263 (00008988) > [Settings] Upscale quality: Quality
+
+21:06:25:263 (00008988) > [Settings] Graphics Options:
+21:06:25:263 (00008988) > [Settings] 	RT Reflections: Off
+21:06:25:263 (00008988) > [Settings] 	Texture Quality: Ultra
+21:06:25:263 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:06:25:263 (00008988) > [Settings] 	Shadow Quality: High
+21:06:25:263 (00008988) > [Settings] 	Depth of Field: High
+21:06:25:263 (00008988) > [Settings] 	Level of Detail: High
+21:06:25:263 (00008988) > [Settings] 	Vehicle Detail: High
+21:06:25:263 (00008988) > [Settings] 	Crowd Detail: High
+21:06:25:263 (00008988) > [Settings] 	Hair Quality: High
+21:06:25:263 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:06:25:263 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:06:25:263 (00008988) > [Settings] 	Particle Lighting: High
+
+21:06:25:263 (00008988) > [Settings] 	Bloom: On
+21:06:25:263 (00008988) > [Settings] 	Vignette: On
+21:06:25:263 (00008988) > [Settings] 	Chromatic Aberration: On
+21:06:25:263 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:06:25:263 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:06:25:263 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:06:25:263 (00008988) > [Settings] 	Lens Flares: On
+21:06:25:263 (00008988) > [Settings] 	Screen Effects: On
+21:06:25:263 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:25:263 (00008988) > [Settings] End of settings.
+21:06:25:263 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:06:25:263 (00010256) > [NxApp] Finished enforcing display settings
+21:06:26:531 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:06:26:531 (00008988) > [Settings] New display settings are:
+21:06:26:531 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:26:531 (00008988) > [Settings] DirectX Version: 12
+21:06:26:531 (00008988) > [Settings] Window mode: Fullscreen
+21:06:26:531 (00008988) > [Settings] Fullscreen display mode:
+21:06:26:531 (00008988) > [Settings] 	Displaying on monitor: 0
+21:06:26:531 (00008988) > [Settings] 	Resolution: 2560x1440
+21:06:26:531 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:06:26:531 (00008988) > [Settings] 	VSync: Off
+21:06:26:531 (00008988) > [Settings] 	HDR: Off
+21:06:26:531 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:06:26:531 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:06:26:531 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:06:26:531 (00008988) > [Settings] Upscale method: None
+
+21:06:26:531 (00008988) > [Settings] Upscale quality: Quality
+
+21:06:26:531 (00008988) > [Settings] Graphics Options:
+21:06:26:531 (00008988) > [Settings] 	RT Reflections: On
+21:06:26:531 (00008988) > [Settings] 		RT Reflection Resolution: High
+21:06:26:531 (00008988) > [Settings] 		RT Geometry Detail: High
+21:06:26:531 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:06:26:531 (00008988) > [Settings] 	Texture Quality: Ultra
+21:06:26:531 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:06:26:531 (00008988) > [Settings] 	Shadow Quality: High
+21:06:26:531 (00008988) > [Settings] 	Depth of Field: High
+21:06:26:531 (00008988) > [Settings] 	Level of Detail: High
+21:06:26:531 (00008988) > [Settings] 	Vehicle Detail: High
+21:06:26:531 (00008988) > [Settings] 	Crowd Detail: High
+21:06:26:531 (00008988) > [Settings] 	Hair Quality: High
+21:06:26:531 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:06:26:531 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:06:26:531 (00008988) > [Settings] 	Particle Lighting: High
+
+21:06:26:531 (00008988) > [Settings] 	Bloom: On
+21:06:26:531 (00008988) > [Settings] 	Vignette: On
+21:06:26:531 (00008988) > [Settings] 	Chromatic Aberration: On
+21:06:26:531 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:06:26:531 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:06:26:531 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:06:26:531 (00008988) > [Settings] 	Lens Flares: On
+21:06:26:531 (00008988) > [Settings] 	Screen Effects: On
+21:06:26:531 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:26:531 (00008988) > [Settings] End of settings.
+21:06:26:531 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:06:26:532 (00010256) > [NxApp] Finished enforcing display settings
+21:06:27:671 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:06:27:671 (00008988) > [Settings] New display settings are:
+21:06:27:671 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:27:671 (00008988) > [Settings] DirectX Version: 12
+21:06:27:671 (00008988) > [Settings] Window mode: Fullscreen
+21:06:27:671 (00008988) > [Settings] Fullscreen display mode:
+21:06:27:671 (00008988) > [Settings] 	Displaying on monitor: 0
+21:06:27:671 (00008988) > [Settings] 	Resolution: 2560x1440
+21:06:27:671 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:06:27:671 (00008988) > [Settings] 	VSync: Off
+21:06:27:671 (00008988) > [Settings] 	HDR: Off
+21:06:27:671 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:06:27:671 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:06:27:671 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:06:27:671 (00008988) > [Settings] Upscale method: None
+
+21:06:27:671 (00008988) > [Settings] Upscale quality: Quality
+
+21:06:27:671 (00008988) > [Settings] Graphics Options:
+21:06:27:671 (00008988) > [Settings] 	RT Reflections: On
+21:06:27:671 (00008988) > [Settings] 		RT Reflection Resolution: Very High
+21:06:27:671 (00008988) > [Settings] 		RT Geometry Detail: High
+21:06:27:671 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:06:27:671 (00008988) > [Settings] 	Texture Quality: Ultra
+21:06:27:671 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:06:27:671 (00008988) > [Settings] 	Shadow Quality: High
+21:06:27:671 (00008988) > [Settings] 	Depth of Field: High
+21:06:27:671 (00008988) > [Settings] 	Level of Detail: High
+21:06:27:671 (00008988) > [Settings] 	Vehicle Detail: High
+21:06:27:671 (00008988) > [Settings] 	Crowd Detail: High
+21:06:27:671 (00008988) > [Settings] 	Hair Quality: High
+21:06:27:671 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:06:27:671 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:06:27:672 (00008988) > [Settings] 	Particle Lighting: High
+
+21:06:27:672 (00008988) > [Settings] 	Bloom: On
+21:06:27:672 (00008988) > [Settings] 	Vignette: On
+21:06:27:672 (00008988) > [Settings] 	Chromatic Aberration: On
+21:06:27:672 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:06:27:672 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:06:27:672 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:06:27:672 (00008988) > [Settings] 	Lens Flares: On
+21:06:27:672 (00008988) > [Settings] 	Screen Effects: On
+21:06:27:672 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:27:672 (00008988) > [Settings] End of settings.
+21:06:27:672 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:06:27:672 (00010256) > [NxApp] Finished enforcing display settings
+21:06:28:464 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:06:28:464 (00008988) > [Settings] New display settings are:
+21:06:28:464 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:28:464 (00008988) > [Settings] DirectX Version: 12
+21:06:28:464 (00008988) > [Settings] Window mode: Fullscreen
+21:06:28:464 (00008988) > [Settings] Fullscreen display mode:
+21:06:28:464 (00008988) > [Settings] 	Displaying on monitor: 0
+21:06:28:464 (00008988) > [Settings] 	Resolution: 2560x1440
+21:06:28:464 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:06:28:464 (00008988) > [Settings] 	VSync: Off
+21:06:28:464 (00008988) > [Settings] 	HDR: Off
+21:06:28:464 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:06:28:464 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:06:28:464 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:06:28:464 (00008988) > [Settings] Upscale method: None
+
+21:06:28:464 (00008988) > [Settings] Upscale quality: Quality
+
+21:06:28:464 (00008988) > [Settings] Graphics Options:
+21:06:28:464 (00008988) > [Settings] 	RT Reflections: On
+21:06:28:464 (00008988) > [Settings] 		RT Reflection Resolution: Very High
+21:06:28:464 (00008988) > [Settings] 		RT Geometry Detail: Very High
+21:06:28:464 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:06:28:464 (00008988) > [Settings] 	Texture Quality: Ultra
+21:06:28:464 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:06:28:464 (00008988) > [Settings] 	Shadow Quality: High
+21:06:28:464 (00008988) > [Settings] 	Depth of Field: High
+21:06:28:464 (00008988) > [Settings] 	Level of Detail: High
+21:06:28:464 (00008988) > [Settings] 	Vehicle Detail: High
+21:06:28:464 (00008988) > [Settings] 	Crowd Detail: High
+21:06:28:464 (00008988) > [Settings] 	Hair Quality: High
+21:06:28:464 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:06:28:464 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:06:28:464 (00008988) > [Settings] 	Particle Lighting: High
+
+21:06:28:464 (00008988) > [Settings] 	Bloom: On
+21:06:28:464 (00008988) > [Settings] 	Vignette: On
+21:06:28:464 (00008988) > [Settings] 	Chromatic Aberration: On
+21:06:28:464 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:06:28:464 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:06:28:464 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:06:28:464 (00008988) > [Settings] 	Lens Flares: On
+21:06:28:464 (00008988) > [Settings] 	Screen Effects: On
+21:06:28:464 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:28:464 (00008988) > [Settings] End of settings.
+21:06:28:464 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:06:28:465 (00010256) > [NxApp] Finished enforcing display settings
+21:06:29:638 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:06:29:638 (00008988) > [Settings] New display settings are:
+21:06:29:638 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:29:638 (00008988) > [Settings] DirectX Version: 12
+21:06:29:638 (00008988) > [Settings] Window mode: Fullscreen
+21:06:29:638 (00008988) > [Settings] Fullscreen display mode:
+21:06:29:638 (00008988) > [Settings] 	Displaying on monitor: 0
+21:06:29:638 (00008988) > [Settings] 	Resolution: 2560x1440
+21:06:29:638 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:06:29:638 (00008988) > [Settings] 	VSync: Off
+21:06:29:638 (00008988) > [Settings] 	HDR: Off
+21:06:29:638 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:06:29:638 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:06:29:638 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:06:29:638 (00008988) > [Settings] Upscale method: None
+
+21:06:29:638 (00008988) > [Settings] Upscale quality: Quality
+
+21:06:29:638 (00008988) > [Settings] Graphics Options:
+21:06:29:638 (00008988) > [Settings] 	RT Reflections: On
+21:06:29:638 (00008988) > [Settings] 		RT Reflection Resolution: Very High
+21:06:29:638 (00008988) > [Settings] 		RT Geometry Detail: Very High
+21:06:29:638 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:06:29:638 (00008988) > [Settings] 	Texture Quality: Ultra
+21:06:29:638 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:06:29:638 (00008988) > [Settings] 	Shadow Quality: High
+21:06:29:638 (00008988) > [Settings] 	Depth of Field: High
+21:06:29:638 (00008988) > [Settings] 	Level of Detail: Ultra
+21:06:29:638 (00008988) > [Settings] 	Vehicle Detail: High
+21:06:29:638 (00008988) > [Settings] 	Crowd Detail: High
+21:06:29:638 (00008988) > [Settings] 	Hair Quality: High
+21:06:29:638 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:06:29:638 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:06:29:638 (00008988) > [Settings] 	Particle Lighting: High
+
+21:06:29:638 (00008988) > [Settings] 	Bloom: On
+21:06:29:638 (00008988) > [Settings] 	Vignette: On
+21:06:29:638 (00008988) > [Settings] 	Chromatic Aberration: On
+21:06:29:638 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:06:29:638 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:06:29:638 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:06:29:638 (00008988) > [Settings] 	Lens Flares: On
+21:06:29:638 (00008988) > [Settings] 	Screen Effects: On
+21:06:29:638 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:29:638 (00008988) > [Settings] End of settings.
+21:06:29:638 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:06:29:638 (00010256) > [NxApp] Finished enforcing display settings
+21:06:30:538 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:06:30:538 (00008988) > [Settings] New display settings are:
+21:06:30:538 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:30:538 (00008988) > [Settings] DirectX Version: 12
+21:06:30:538 (00008988) > [Settings] Window mode: Fullscreen
+21:06:30:538 (00008988) > [Settings] Fullscreen display mode:
+21:06:30:538 (00008988) > [Settings] 	Displaying on monitor: 0
+21:06:30:538 (00008988) > [Settings] 	Resolution: 2560x1440
+21:06:30:538 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:06:30:538 (00008988) > [Settings] 	VSync: Off
+21:06:30:538 (00008988) > [Settings] 	HDR: Off
+21:06:30:538 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:06:30:538 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:06:30:538 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:06:30:538 (00008988) > [Settings] Upscale method: None
+
+21:06:30:538 (00008988) > [Settings] Upscale quality: Quality
+
+21:06:30:538 (00008988) > [Settings] Graphics Options:
+21:06:30:538 (00008988) > [Settings] 	RT Reflections: On
+21:06:30:538 (00008988) > [Settings] 		RT Reflection Resolution: Very High
+21:06:30:538 (00008988) > [Settings] 		RT Geometry Detail: Very High
+21:06:30:538 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:06:30:538 (00008988) > [Settings] 	Texture Quality: Ultra
+21:06:30:538 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:06:30:538 (00008988) > [Settings] 	Shadow Quality: High
+21:06:30:538 (00008988) > [Settings] 	Depth of Field: High
+21:06:30:538 (00008988) > [Settings] 	Level of Detail: High
+21:06:30:538 (00008988) > [Settings] 	Vehicle Detail: High
+21:06:30:538 (00008988) > [Settings] 	Crowd Detail: High
+21:06:30:538 (00008988) > [Settings] 	Hair Quality: High
+21:06:30:538 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:06:30:538 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:06:30:538 (00008988) > [Settings] 	Particle Lighting: High
+
+21:06:30:538 (00008988) > [Settings] 	Bloom: On
+21:06:30:538 (00008988) > [Settings] 	Vignette: On
+21:06:30:538 (00008988) > [Settings] 	Chromatic Aberration: On
+21:06:30:538 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:06:30:538 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:06:30:538 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:06:30:538 (00008988) > [Settings] 	Lens Flares: On
+21:06:30:538 (00008988) > [Settings] 	Screen Effects: On
+21:06:30:538 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:30:538 (00008988) > [Settings] End of settings.
+21:06:30:538 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:06:30:539 (00010256) > [NxApp] Finished enforcing display settings
+21:06:31:203 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:06:31:203 (00008988) > [Settings] New display settings are:
+21:06:31:203 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:31:203 (00008988) > [Settings] DirectX Version: 12
+21:06:31:203 (00008988) > [Settings] Window mode: Fullscreen
+21:06:31:203 (00008988) > [Settings] Fullscreen display mode:
+21:06:31:203 (00008988) > [Settings] 	Displaying on monitor: 0
+21:06:31:203 (00008988) > [Settings] 	Resolution: 2560x1440
+21:06:31:203 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:06:31:203 (00008988) > [Settings] 	VSync: Off
+21:06:31:203 (00008988) > [Settings] 	HDR: Off
+21:06:31:203 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:06:31:203 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:06:31:203 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:06:31:203 (00008988) > [Settings] Upscale method: None
+
+21:06:31:203 (00008988) > [Settings] Upscale quality: Quality
+
+21:06:31:203 (00008988) > [Settings] Graphics Options:
+21:06:31:203 (00008988) > [Settings] 	RT Reflections: On
+21:06:31:203 (00008988) > [Settings] 		RT Reflection Resolution: Very High
+21:06:31:203 (00008988) > [Settings] 		RT Geometry Detail: Very High
+21:06:31:203 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:06:31:203 (00008988) > [Settings] 	Texture Quality: Ultra
+21:06:31:203 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:06:31:203 (00008988) > [Settings] 	Shadow Quality: High
+21:06:31:203 (00008988) > [Settings] 	Depth of Field: High
+21:06:31:203 (00008988) > [Settings] 	Level of Detail: Ultra
+21:06:31:203 (00008988) > [Settings] 	Vehicle Detail: High
+21:06:31:203 (00008988) > [Settings] 	Crowd Detail: High
+21:06:31:203 (00008988) > [Settings] 	Hair Quality: High
+21:06:31:203 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:06:31:203 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:06:31:203 (00008988) > [Settings] 	Particle Lighting: High
+
+21:06:31:203 (00008988) > [Settings] 	Bloom: On
+21:06:31:203 (00008988) > [Settings] 	Vignette: On
+21:06:31:203 (00008988) > [Settings] 	Chromatic Aberration: On
+21:06:31:203 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:06:31:203 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:06:31:203 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:06:31:203 (00008988) > [Settings] 	Lens Flares: On
+21:06:31:203 (00008988) > [Settings] 	Screen Effects: On
+21:06:31:203 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:06:31:203 (00008988) > [Settings] End of settings.
+21:06:31:203 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:06:31:204 (00010256) > [NxApp] Finished enforcing display settings
+21:09:39:186 (00010256) > [Save] Request save type 0, control 0
+21:09:39:187 (00010256) > [Save] Request save type 0, control 0
+21:09:39:202 (00010256) > [Save] Request save type 0, control 0
+21:10:45:905 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:10:45:905 (00008988) > [Settings] New display settings are:
+21:10:45:905 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:10:45:905 (00008988) > [Settings] DirectX Version: 12
+21:10:45:905 (00008988) > [Settings] Window mode: Fullscreen
+21:10:45:905 (00008988) > [Settings] Fullscreen display mode:
+21:10:45:905 (00008988) > [Settings] 	Displaying on monitor: 0
+21:10:45:905 (00008988) > [Settings] 	Resolution: 2560x1440
+21:10:45:905 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:10:45:905 (00008988) > [Settings] 	VSync: Off
+21:10:45:905 (00008988) > [Settings] 	HDR: Off
+21:10:45:905 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:10:45:905 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:10:45:905 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:10:45:905 (00008988) > [Settings] Upscale method: None
+
+21:10:45:905 (00008988) > [Settings] Upscale quality: Quality
+
+21:10:45:905 (00008988) > [Settings] Graphics Options:
+21:10:45:905 (00008988) > [Settings] 	RT Reflections: On
+21:10:45:905 (00008988) > [Settings] 		RT Reflection Resolution: Very High
+21:10:45:905 (00008988) > [Settings] 		RT Geometry Detail: Very High
+21:10:45:905 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:10:45:905 (00008988) > [Settings] 	Texture Quality: Ultra
+21:10:45:905 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:10:45:905 (00008988) > [Settings] 	Shadow Quality: High
+21:10:45:905 (00008988) > [Settings] 	Depth of Field: High
+21:10:45:905 (00008988) > [Settings] 	Level of Detail: High
+21:10:45:905 (00008988) > [Settings] 	Vehicle Detail: High
+21:10:45:905 (00008988) > [Settings] 	Crowd Detail: High
+21:10:45:905 (00008988) > [Settings] 	Hair Quality: High
+21:10:45:905 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:10:45:905 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:10:45:905 (00008988) > [Settings] 	Particle Lighting: High
+
+21:10:45:905 (00008988) > [Settings] 	Bloom: On
+21:10:45:905 (00008988) > [Settings] 	Vignette: On
+21:10:45:905 (00008988) > [Settings] 	Chromatic Aberration: On
+21:10:45:905 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:10:45:905 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:10:45:905 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:10:45:905 (00008988) > [Settings] 	Lens Flares: On
+21:10:45:905 (00008988) > [Settings] 	Screen Effects: On
+21:10:45:905 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:10:45:905 (00008988) > [Settings] End of settings.
+21:10:45:905 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:10:45:905 (00010256) > [NxApp] Finished enforcing display settings
+21:10:46:917 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:10:46:917 (00008988) > [Settings] New display settings are:
+21:10:46:917 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:10:46:917 (00008988) > [Settings] DirectX Version: 12
+21:10:46:917 (00008988) > [Settings] Window mode: Fullscreen
+21:10:46:917 (00008988) > [Settings] Fullscreen display mode:
+21:10:46:917 (00008988) > [Settings] 	Displaying on monitor: 0
+21:10:46:917 (00008988) > [Settings] 	Resolution: 2560x1440
+21:10:46:917 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:10:46:917 (00008988) > [Settings] 	VSync: Off
+21:10:46:917 (00008988) > [Settings] 	HDR: Off
+21:10:46:917 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:10:46:917 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:10:46:917 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:10:46:917 (00008988) > [Settings] Upscale method: None
+
+21:10:46:917 (00008988) > [Settings] Upscale quality: Quality
+
+21:10:46:917 (00008988) > [Settings] Graphics Options:
+21:10:46:917 (00008988) > [Settings] 	RT Reflections: On
+21:10:46:917 (00008988) > [Settings] 		RT Reflection Resolution: Very High
+21:10:46:917 (00008988) > [Settings] 		RT Geometry Detail: High
+21:10:46:917 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:10:46:917 (00008988) > [Settings] 	Texture Quality: Ultra
+21:10:46:917 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:10:46:917 (00008988) > [Settings] 	Shadow Quality: High
+21:10:46:917 (00008988) > [Settings] 	Depth of Field: High
+21:10:46:917 (00008988) > [Settings] 	Level of Detail: High
+21:10:46:917 (00008988) > [Settings] 	Vehicle Detail: High
+21:10:46:917 (00008988) > [Settings] 	Crowd Detail: High
+21:10:46:917 (00008988) > [Settings] 	Hair Quality: High
+21:10:46:917 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:10:46:917 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:10:46:917 (00008988) > [Settings] 	Particle Lighting: High
+
+21:10:46:917 (00008988) > [Settings] 	Bloom: On
+21:10:46:917 (00008988) > [Settings] 	Vignette: On
+21:10:46:917 (00008988) > [Settings] 	Chromatic Aberration: On
+21:10:46:917 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:10:46:917 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:10:46:917 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:10:46:917 (00008988) > [Settings] 	Lens Flares: On
+21:10:46:917 (00008988) > [Settings] 	Screen Effects: On
+21:10:46:917 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:10:46:917 (00008988) > [Settings] End of settings.
+21:10:46:917 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:10:46:919 (00010256) > [NxApp] Finished enforcing display settings
+21:10:49:036 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:10:49:036 (00008988) > [Settings] New display settings are:
+21:10:49:036 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:10:49:036 (00008988) > [Settings] DirectX Version: 12
+21:10:49:036 (00008988) > [Settings] Window mode: Fullscreen
+21:10:49:036 (00008988) > [Settings] Fullscreen display mode:
+21:10:49:036 (00008988) > [Settings] 	Displaying on monitor: 0
+21:10:49:036 (00008988) > [Settings] 	Resolution: 2560x1440
+21:10:49:036 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:10:49:036 (00008988) > [Settings] 	VSync: Off
+21:10:49:036 (00008988) > [Settings] 	HDR: Off
+21:10:49:036 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:10:49:036 (00008988) > [Settings] 	Dynamic resolution FPS target: 0
+21:10:49:036 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:10:49:036 (00008988) > [Settings] Upscale method: None
+
+21:10:49:036 (00008988) > [Settings] Upscale quality: Quality
+
+21:10:49:036 (00008988) > [Settings] Graphics Options:
+21:10:49:036 (00008988) > [Settings] 	RT Reflections: On
+21:10:49:036 (00008988) > [Settings] 		RT Reflection Resolution: High
+21:10:49:036 (00008988) > [Settings] 		RT Geometry Detail: High
+21:10:49:036 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:10:49:037 (00008988) > [Settings] 	Texture Quality: Ultra
+21:10:49:037 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:10:49:037 (00008988) > [Settings] 	Shadow Quality: High
+21:10:49:037 (00008988) > [Settings] 	Depth of Field: High
+21:10:49:037 (00008988) > [Settings] 	Level of Detail: High
+21:10:49:037 (00008988) > [Settings] 	Vehicle Detail: High
+21:10:49:037 (00008988) > [Settings] 	Crowd Detail: High
+21:10:49:037 (00008988) > [Settings] 	Hair Quality: High
+21:10:49:037 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:10:49:037 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:10:49:037 (00008988) > [Settings] 	Particle Lighting: High
+
+21:10:49:037 (00008988) > [Settings] 	Bloom: On
+21:10:49:037 (00008988) > [Settings] 	Vignette: On
+21:10:49:037 (00008988) > [Settings] 	Chromatic Aberration: On
+21:10:49:037 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:10:49:037 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:10:49:037 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:10:49:037 (00008988) > [Settings] 	Lens Flares: On
+21:10:49:037 (00008988) > [Settings] 	Screen Effects: On
+21:10:49:037 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:10:49:037 (00008988) > [Settings] End of settings.
+21:10:49:037 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:10:49:037 (00010256) > [NxApp] Finished enforcing display settings
+21:10:59:997 (00013344) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:10:59:997 (00008988) > [Settings] New display settings are:
+21:10:59:997 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:10:59:997 (00008988) > [Settings] DirectX Version: 12
+21:10:59:997 (00008988) > [Settings] Window mode: Fullscreen
+21:10:59:997 (00008988) > [Settings] Fullscreen display mode:
+21:10:59:997 (00008988) > [Settings] 	Displaying on monitor: 0
+21:10:59:997 (00008988) > [Settings] 	Resolution: 2560x1440
+21:10:59:997 (00008988) > [Settings] 	OS reported Refresh rate: 165
+21:10:59:997 (00008988) > [Settings] 	VSync: Off
+21:10:59:997 (00008988) > [Settings] 	HDR: Off
+21:10:59:997 (00008988) > [Settings] 	Resolution modifier 1.000000
+21:10:59:997 (00008988) > [Settings] 	Dynamic resolution FPS target: 60
+21:10:59:997 (00008988) > [Settings] Anti aliasing: DLAA
+
+21:10:59:997 (00008988) > [Settings] Upscale method: None
+
+21:10:59:997 (00008988) > [Settings] Upscale quality: Quality
+
+21:10:59:997 (00008988) > [Settings] Graphics Options:
+21:10:59:997 (00008988) > [Settings] 	RT Reflections: On
+21:10:59:997 (00008988) > [Settings] 		RT Reflection Resolution: High
+21:10:59:997 (00008988) > [Settings] 		RT Geometry Detail: High
+21:10:59:997 (00008988) > [Settings] 		RT Object Scale: 0.600000
+21:10:59:997 (00008988) > [Settings] 	Texture Quality: Ultra
+21:10:59:997 (00008988) > [Settings] 	Texture Filtering: Anisotropic16x
+21:10:59:997 (00008988) > [Settings] 	Shadow Quality: High
+21:10:59:997 (00008988) > [Settings] 	Depth of Field: High
+21:10:59:997 (00008988) > [Settings] 	Level of Detail: High
+21:10:59:997 (00008988) > [Settings] 	Vehicle Detail: High
+21:10:59:997 (00008988) > [Settings] 	Crowd Detail: High
+21:10:59:997 (00008988) > [Settings] 	Hair Quality: High
+21:10:59:997 (00008988) > [Settings] 	Ambient Occlusion: SSAO
+21:10:59:997 (00008988) > [Settings] 	Screen Space Reflections: Normal
+21:10:59:997 (00008988) > [Settings] 	Particle Lighting: High
+
+21:10:59:997 (00008988) > [Settings] 	Bloom: On
+21:10:59:997 (00008988) > [Settings] 	Vignette: On
+21:10:59:997 (00008988) > [Settings] 	Chromatic Aberration: On
+21:10:59:997 (00008988) > [Settings] 	Motion Blur: 1.000000
+21:10:59:997 (00008988) > [Settings] 	FOV Correction: 1.000000
+21:10:59:997 (00008988) > [Settings] 	Film Grain Strength: 1.000000
+21:10:59:997 (00008988) > [Settings] 	Lens Flares: On
+21:10:59:997 (00008988) > [Settings] 	Screen Effects: On
+21:10:59:997 (00008988) > [**************************************************Display + Graphics Settings**************************************************] 
+21:10:59:997 (00008988) > [Settings] End of settings.
+21:10:59:997 (00008988) > [NxApp (Render Thread)] Finished enforcing display settings
+21:10:59:999 (00010256) > [NxApp] Finished enforcing display settings
+21:12:06:538 (00010256) > [Save] Request save type 0, control 0
+21:12:06:538 (00010256) > [Save] Request save type 0, control 0
+21:12:06:549 (00010256) > [Save] Request save type 0, control 0
+21:12:38:079 (00010256) > [Save] Request save type 0, control 0
+21:12:38:079 (00010256) > [Save] Request save type 0, control 0
+21:12:38:080 (00010256) > [Save] Request save type 0, control 0
+21:14:19:277 (00010256) > [Save] Request save type 0, control 0
+21:14:19:278 (00010256) > [Save] Request save type 0, control 0
+21:14:19:278 (00010256) > [Save] Request save type 0, control 0
+21:15:39:246 (00010256) > [Save] Request save type 0, control 0
+21:15:43:427 (00010256) > [Save] Request save type 0, control 0
+21:15:43:427 (00010256) > [Save] Request save type 0, control 0
+21:15:43:428 (00010256) > [Save] Request save type 0, control 0
+21:17:49:850 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+21:17:49:850 (00016912) > [Audio] Device removed 0x0
+21:17:49:941 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+21:17:58:233 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+21:17:59:662 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+21:21:57:320 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+21:23:43:240 (00010256) > [Save] Request save type 0, control 0
+21:23:43:240 (00010256) > [Save] Request save type 0, control 0
+21:23:43:250 (00010256) > [Save] Request save type 0, control 0
+21:24:42:292 (00010256) > [Save] Request save type 0, control 0
+21:24:42:293 (00010256) > [Save] Request save type 0, control 0
+21:24:42:293 (00010256) > [Save] Request save type 0, control 0
+21:26:07:792 (00010256) > [Save] Request save type 0, control 0
+21:26:07:792 (00010256) > [Save] Request save type 0, control 0
+21:26:07:793 (00010256) > [Save] Request save type 0, control 0
+21:26:15:120 (00010256) > [Save] Request save type 0, control 0
+21:26:15:122 (00010256) > [Save] Request save type 0, control 0
+21:26:15:122 (00010256) > [Save] Request save type 0, control 0
+21:26:40:002 (00010256) > [Save] Request save type 0, control 0
+21:26:40:003 (00010256) > [Save] Request save type 0, control 0
+21:26:40:004 (00010256) > [Save] Request save type 0, control 0
+21:26:52:259 (00010256) > [Save] Request save type 0, control 0
+21:26:52:260 (00010256) > [Save] Request save type 0, control 0
+21:26:52:260 (00010256) > [Save] Request save type 0, control 0
+21:27:23:409 (00010256) > [Save] Request save type 0, control 0
+21:27:23:409 (00010256) > [Save] Request save type 0, control 0
+21:27:23:409 (00010256) > [Save] Request save type 0, control 0
+21:27:31:382 (00010256) > [Save] Request save type 0, control 0
+21:27:31:383 (00010256) > [Save] Request save type 0, control 0
+21:27:31:396 (00010256) > [Save] Request save type 0, control 0
+21:28:18:151 (00010256) > [Save] Request save type 0, control 0
+21:28:18:151 (00010256) > [Save] Request save type 0, control 0
+21:28:18:154 (00010256) > [Save] Request save type 0, control 0
+21:28:21:923 (00010256) > [Save] Request save type 0, control 0
+21:28:21:944 (00010256) > [Save] Request save type 0, control 0
+21:29:29:328 (00010256) > [Save] Request save type 0, control 0
+21:29:36:190 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+21:29:39:575 (00010256) > [Save] Request save type 0, control 0
+21:29:39:576 (00010256) > [Save] Request save type 0, control 256
+21:31:01:144 (00010256) > [Save] Request save type 0, control 0
+21:32:45:051 (00010256) > [Save] Request save type 0, control 0
+21:32:45:051 (00010256) > [Save] Request save type 0, control 0
+21:32:45:051 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:052 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:053 (00010256) > [Save] Request save type 0, control 0
+21:32:45:054 (00010256) > [Save] Request save type 0, control 0
+21:32:45:054 (00010256) > [Save] Request save type 0, control 0
+21:32:45:054 (00010256) > [Save] Request save type 0, control 0
+21:32:45:054 (00010256) > [Save] Request save type 0, control 0
+21:32:45:054 (00010256) > [Save] Request save type 0, control 0
+21:32:45:054 (00010256) > [Save] Request save type 0, control 0
+21:33:22:532 (00010256) > [Save] Request save type 0, control 0
+21:33:22:532 (00010256) > [Save] Request save type 0, control 0
+21:33:22:534 (00010256) > [Save] Request save type 0, control 0
+21:36:01:842 (00010256) > [Save] Request save type 0, control 0
+21:36:01:842 (00010256) > [Save] Request save type 0, control 0
+21:36:01:857 (00010256) > [Save] Request save type 0, control 0
+21:36:08:374 (00010256) > [Save] Request save type 0, control 0
+21:36:08:375 (00010256) > [Save] Request save type 0, control 0
+21:36:08:390 (00010256) > [Save] Request save type 0, control 0
+21:36:42:923 (00010256) > [Save] Request save type 0, control 0
+21:37:16:208 (00010256) > [Save] Request save type 0, control 0
+21:37:47:119 (00010256) > [Save] Request save type 0, control 0
+21:37:47:120 (00010256) > [Save] Request save type 0, control 0
+21:37:47:120 (00010256) > [Save] Request save type 0, control 0
+21:37:56:625 (00010256) > [Save] Request save type 0, control 36
+21:37:57:999 (00010256) > [Save] Request save type 0, control 0
+21:38:04:927 (00010256) > [Save] Request save type 0, control 0
+21:38:04:927 (00010256) > [Save] Request save type 0, control 0
+21:38:04:939 (00010256) > [Save] Request save type 0, control 0
+21:39:16:379 (00010256) > [Save] Request save type 0, control 0
+21:39:16:380 (00010256) > [Save] Request save type 0, control 0
+21:39:16:380 (00010256) > [Save] Request save type 0, control 0
+21:39:18:109 (00010256) > [Save] Request save type 0, control 0
+21:39:28:023 (00010256) > [Save] Request save type 0, control 0
+21:39:28:023 (00010256) > [Save] Request save type 0, control 0
+21:39:28:024 (00010256) > [Save] Request save type 0, control 0
+21:39:42:473 (00010256) > [Save] Request save type 0, control 0
+21:39:42:473 (00010256) > [Save] Request save type 0, control 0
+21:39:42:474 (00010256) > [Save] Request save type 0, control 0
+21:40:29:974 (00010256) > [Save] Request save type 0, control 0
+21:40:29:976 (00010256) > [Save] Request save type 0, control 0
+21:40:29:976 (00010256) > [Save] Request save type 0, control 0
+21:40:39:048 (00010256) > [Save] Request save type 0, control 0
+21:40:39:049 (00010256) > [Save] Request save type 0, control 0
+21:40:39:061 (00010256) > [Save] Request save type 0, control 0
+21:41:20:404 (00010256) > [Save] Request save type 0, control 0
+21:41:20:405 (00010256) > [Save] Request save type 0, control 0
+21:41:20:405 (00010256) > [Save] Request save type 0, control 0
+21:42:45:357 (00010256) > [Save] Request save type 0, control 0
+21:42:45:357 (00010256) > [Save] Request save type 0, control 0
+21:42:45:358 (00010256) > [Save] Request save type 0, control 0
+21:43:53:413 (00010256) > [Save] Request save type 0, control 0
+21:43:53:414 (00010256) > [Save] Request save type 0, control 0
+21:43:53:431 (00010256) > [Save] Request save type 0, control 0
+21:44:00:945 (00010256) > [Save] Request save type 0, control 0
+21:44:00:946 (00010256) > [Save] Request save type 0, control 0
+21:44:00:946 (00010256) > [Save] Request save type 0, control 0
+21:45:25:952 (00010256) > [Save] Request save type 0, control 0
+21:45:25:952 (00010256) > [Save] Request save type 0, control 0
+21:45:25:953 (00010256) > [Save] Request save type 0, control 0
+21:45:58:019 (00010256) > [Save] Request save type 0, control 0
+21:45:58:019 (00010256) > [Save] Request save type 0, control 0
+21:45:58:020 (00010256) > [Save] Request save type 0, control 0
+21:46:01:808 (00010256) > [Save] Request save type 0, control 0
+21:46:22:871 (00010256) > [Save] Request save type 0, control 0
+21:47:18:256 (00010256) > [Save] Request save type 0, control 0
+21:47:18:256 (00010256) > [Save] Request save type 0, control 0
+21:47:18:272 (00010256) > [Save] Request save type 0, control 0
+21:49:58:193 (00010256) > [Save] Request save type 0, control 0
+21:49:58:194 (00010256) > [Save] Request save type 0, control 0
+21:49:58:206 (00010256) > [Save] Request save type 0, control 0
+21:53:12:197 (00010256) > [Save] Request save type 0, control 0
+21:53:12:197 (00010256) > [Save] Request save type 0, control 0
+21:53:12:198 (00010256) > [Save] Request save type 0, control 0
+21:53:12:198 (00010256) > [Save] Request save type 0, control 256
+21:53:12:198 (00010256) > [Save] Request save type 0, control 0
+21:53:12:198 (00010256) > [Save] Request save type 0, control 0
+21:53:12:198 (00010256) > [Save] Request save type 0, control 0
+21:53:12:198 (00010256) > [Save] Request save type 0, control 0
+21:53:12:250 (00010256) > [Save] Request save type 0, control 36
+21:55:17:965 (00012328) > [Input] removed Windows.Gaming.Input raw-controller 54c 5c4
+
+21:55:18:183 (00012328) > [Input] new Windows.Gaming.Input raw-controller found 54c 5c4
+
+21:55:27:642 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+21:57:00:954 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+21:58:01:412 (00010256) > [Save] Request save type 0, control 0
+21:58:01:412 (00010256) > [Save] Request save type 0, control 0
+21:58:01:414 (00010256) > [Save] Request save type 0, control 0
+21:58:03:638 (00010256) > [Save] Request save type 0, control 0
+21:58:03:659 (00010256) > [Save] Request save type 0, control 0
+21:58:09:730 (00010256) > [Save] Request save type 0, control 0
+21:58:12:490 (00010256) > [Save] Request save type 0, control 0
+21:58:12:490 (00010256) > [Save] Request save type 0, control 0
+21:59:21:758 (00010256) > [Save] Request save type 0, control 0
+21:59:24:389 (00010256) > [Save] Request save type 0, control 0
+21:59:26:293 (00010256) > [Save] Request save type 0, control 0
+21:59:27:761 (00010256) > [Save] Request save type 0, control 0
+21:59:30:560 (00010256) > [Save] Request save type 0, control 0
+22:00:35:995 (00010256) > [Save] Request save type 0, control 0
+22:00:35:995 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:996 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:35:997 (00010256) > [Save] Request save type 0, control 0
+22:00:37:828 (00010256) > [Save] Request save type 0, control 0
+22:00:37:829 (00010256) > [Save] Request save type 0, control 0
+22:00:37:829 (00010256) > [Save] Request save type 0, control 0
+22:00:41:099 (00010256) > [Save] Request save type 0, control 0
+22:00:41:101 (00010256) > [Save] Request save type 0, control 0
+22:01:55:536 (00010256) > [Save] Request save type 0, control 0
+22:01:55:537 (00010256) > [Save] Request save type 0, control 0
+22:01:55:537 (00010256) > [Save] Request save type 0, control 0
+22:04:22:767 (00010256) > [Save] Request save type 0, control 0
+22:04:22:767 (00010256) > [Save] Request save type 0, control 0
+22:04:22:767 (00010256) > [Save] Request save type 0, control 0
+22:07:55:772 (00010256) > [Save] Request save type 0, control 0
+22:07:55:773 (00010256) > [Save] Request save type 0, control 0
+22:07:55:784 (00010256) > [Save] Request save type 0, control 0
+22:09:23:077 (00010256) > [Save] Request save type 0, control 0
+22:09:23:077 (00010256) > [Save] Request save type 0, control 0
+22:09:23:078 (00010256) > [Save] Request save type 0, control 0
+22:11:13:181 (00010256) > [Save] Request save type 0, control 0
+22:11:13:181 (00010256) > [Save] Request save type 0, control 0
+22:11:13:196 (00010256) > [Save] Request save type 0, control 0
+22:12:24:764 (00010256) > [Save] Request save type 0, control 0
+22:12:24:764 (00010256) > [Save] Request save type 0, control 0
+22:12:24:765 (00010256) > [Save] Request save type 0, control 0
+22:15:13:631 (00010256) > [Save] Request save type 0, control 0
+22:15:13:631 (00010256) > [Save] Request save type 0, control 0
+22:15:13:631 (00010256) > [Save] Request save type 0, control 0
+22:15:13:631 (00010256) > [Save] Request save type 0, control 0
+22:15:13:631 (00010256) > [Save] Request save type 0, control 0
+22:15:13:632 (00010256) > [Save] Request save type 0, control 0
+22:15:13:708 (00010256) > [Save] Request save type 0, control 36
+22:18:07:209 (00010256) > [Save] Request save type 0, control 0
+22:18:07:209 (00010256) > [Save] Request save type 0, control 0
+22:18:07:209 (00010256) > [Save] Request save type 0, control 0
+22:19:33:751 (00010256) > [Save] Request save type 0, control 0
+22:19:33:751 (00010256) > [Save] Request save type 0, control 0
+22:19:33:751 (00010256) > [Save] Request save type 0, control 0
+22:21:12:517 (00010256) > [Save] Request save type 0, control 0
+22:21:12:518 (00010256) > [Save] Request save type 0, control 0
+22:21:12:531 (00010256) > [Save] Request save type 0, control 0
+22:21:23:021 (00010256) > [Save] Request save type 0, control 0
+22:21:23:021 (00010256) > [Save] Request save type 0, control 0
+22:21:23:040 (00010256) > [Save] Request save type 0, control 0
+22:22:44:388 (00010256) > [Save] Request save type 0, control 0
+22:22:44:388 (00010256) > [Save] Request save type 0, control 0
+22:22:44:388 (00010256) > [Save] Request save type 0, control 0
+22:23:57:577 (00010256) > [Save] Request save type 0, control 0
+22:23:57:577 (00010256) > [Save] Request save type 0, control 0
+22:23:57:590 (00010256) > [Save] Request save type 0, control 0
+22:24:00:475 (00010256) > [Save] Request save type 0, control 0
+22:24:00:497 (00010256) > [Save] Request save type 0, control 0
+22:24:08:625 (00010256) > [Save] Request save type 0, control 0
+22:24:12:710 (00010256) > [Save] Request save type 0, control 256
+22:24:12:711 (00010256) > [Save] Request save type 0, control 0
+22:25:15:407 (00010256) > [Save] Request save type 0, control 0
+22:25:34:387 (00010256) > [Save] Request save type 0, control 36
+22:25:37:860 (00010256) > [Save] Request save type 0, control 0
+22:26:17:195 (00010256) > [Save] Request save type 0, control 0
+22:26:17:209 (00010256) > [Save] Request save type 0, control 0
+22:27:57:767 (00010256) > [Save] Request save type 0, control 0
+22:27:57:767 (00010256) > [Save] Request save type 0, control 0
+22:27:57:768 (00010256) > [Save] Request save type 0, control 0
+22:27:57:768 (00010256) > [Save] Request save type 0, control 0
+22:28:23:159 (00010256) > [Save] Request save type 0, control 0
+22:28:23:159 (00010256) > [Save] Request save type 0, control 0
+22:28:23:161 (00010256) > [Save] Request save type 0, control 0
+22:31:13:785 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+22:40:07:284 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+22:41:35:472 (00010256) > [Save] Request save type 0, control 0
+22:41:35:473 (00010256) > [Save] Request save type 0, control 0
+22:41:35:487 (00010256) > [Save] Request save type 0, control 0
+22:42:07:561 (00010256) > [Save] Request save type 0, control 0
+22:42:07:561 (00010256) > [Save] Request save type 0, control 0
+22:42:07:561 (00010256) > [Save] Request save type 0, control 0
+22:42:08:873 (00010256) > [Save] Request save type 0, control 0
+22:42:27:503 (00010256) > [Save] Request save type 0, control 0
+22:42:27:503 (00010256) > [Save] Request save type 0, control 0
+22:42:27:517 (00010256) > [Save] Request save type 0, control 0
+22:42:58:669 (00010256) > [Save] Request save type 0, control 0
+22:42:58:670 (00010256) > [Save] Request save type 0, control 0
+22:42:58:672 (00010256) > [Save] Request save type 0, control 0
+22:44:42:319 (00010256) > [Save] Request save type 0, control 0
+22:44:42:319 (00010256) > [Save] Request save type 0, control 0
+22:44:42:330 (00010256) > [Save] Request save type 0, control 0
+22:45:34:133 (00010256) > [Save] Request save type 0, control 0
+22:45:46:236 (00010256) > [Save] Request save type 0, control 0
+22:45:53:453 (00010256) > [Save] Request save type 0, control 0
+22:45:53:453 (00010256) > [Save] Request save type 0, control 0
+22:45:53:465 (00010256) > [Save] Request save type 0, control 0
+22:46:32:314 (00010256) > [Save] Request save type 0, control 0
+22:46:32:315 (00010256) > [Save] Request save type 0, control 0
+22:46:32:315 (00010256) > [Save] Request save type 0, control 0
+22:46:41:702 (00010256) > [Save] Request save type 0, control 0
+22:46:41:704 (00010256) > [Save] Request save type 0, control 0
+22:46:41:714 (00010256) > [Save] Request save type 0, control 0
+22:47:41:763 (00010256) > [Save] Request save type 0, control 0
+22:47:41:763 (00010256) > [Save] Request save type 0, control 0
+22:47:41:764 (00010256) > [Save] Request save type 0, control 0
+22:49:10:605 (00010256) > [Save] Request save type 0, control 0
+22:49:10:606 (00010256) > [Save] Request save type 0, control 0
+22:49:10:620 (00010256) > [Save] Request save type 0, control 0
+22:49:18:971 (00010256) > [Save] Request save type 0, control 0
+22:49:18:971 (00010256) > [Save] Request save type 0, control 0
+22:49:18:971 (00010256) > [Save] Request save type 0, control 0
+22:50:52:735 (00010256) > [Save] Request save type 0, control 0
+22:51:51:211 (00010256) > [Save] Request save type 0, control 0
+22:51:59:380 (00010256) > [Save] Request save type 0, control 0
+22:52:01:384 (00010256) > [Save] Request save type 0, control 0
+22:52:01:385 (00010256) > [Save] Request save type 0, control 0
+22:52:01:401 (00010256) > [Save] Request save type 0, control 0
+22:53:22:433 (00010256) > [Save] Request save type 0, control 0
+22:53:22:433 (00010256) > [Save] Request save type 0, control 0
+22:53:22:433 (00010256) > [Save] Request save type 0, control 0
+22:56:01:717 (00010256) > [Save] Request save type 0, control 0
+22:56:01:717 (00010256) > [Save] Request save type 0, control 0
+22:56:01:731 (00010256) > [Save] Request save type 0, control 0
+22:56:27:149 (00010256) > [Save] Request save type 0, control 0
+22:56:27:150 (00010256) > [Save] Request save type 0, control 0
+22:56:27:150 (00010256) > [Save] Request save type 0, control 0
+22:56:50:767 (00010256) > [Save] Request save type 0, control 0
+22:56:50:767 (00010256) > [Save] Request save type 0, control 0
+22:56:50:768 (00010256) > [Save] Request save type 0, control 0
+22:56:53:281 (00010256) > [Save] Request save type 0, control 0
+22:56:53:294 (00010256) > [Save] Request save type 0, control 0
+22:56:57:921 (00010256) > [Save] Request save type 0, control 0
+22:57:46:492 (00016912) > [Audio] Device (re)initialized 0x0 'Headphones (LE_WH-1000XM3)'
+22:58:21:945 (00010256) > [Save] Request save type 0, control 256
+22:58:21:960 (00010256) > [Save] Request save type 0, control 0
+22:58:35:998 (00010256) > [Save] Request load save type 0, control 64, target -1
+22:58:36:763 (00010256) > [Save] Request save type 0, control 68
+22:58:37:863 (00010256) > [Save] Request load save type 0, control 64, target -1
+22:58:42:088 (00016912) > [Audio] Device removed 0x0
+22:58:43:637 (00010256) > [NxApp] Destroying
+22:58:43:762 (00010256) > [DXGI] Destroyed swapchain.
+22:58:43:762 (00010256) > [SwapChain] Destroyed.
+22:58:43:762 (00010256) > [SwapChain] Released.
+22:58:43:762 (00010256) > [Render] Unloading NVAPI
+22:58:43:762 (00010256) > [Render] Done unloading NVAPI
+22:58:43:770 (00010256) > [DXGI] Destroyed swapchain.
+22:58:43:770 (00010256) > [DXGI] Released.
+--- NIXXES log closed ---

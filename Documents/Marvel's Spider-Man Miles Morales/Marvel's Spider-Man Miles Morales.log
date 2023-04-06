@@ -1,455 +1,480 @@
-19:28:54:928 (00016984) > [Startup] Marvel's Spider-Man: Miles Morales
-19:28:54:928 (00016984) > [Startup] ==============
-19:28:54:928 (00016984) > [Startup] 
-19:28:54:928 (00016984) > [Startup] Build: v1.1116.0.0
-19:28:54:928 (00016984) > [Startup] Windows 11.0 (build 22621)
-19:28:54:928 (00016984) > [Startup] Distribution platform: Steam
-19:28:54:928 (00016984) > [Startup] Game directory: C:\Users\<username>\OneDrive\Old\Documents\Marvel's Spider-Man Miles Morales\
-19:28:54:928 (00016984) > [Startup] Working directory: C:\Games\Marvel's Spider-Man Miles Morales
-19:28:54:928 (00016984) > [Startup] Run ID: EB10-A3B1-F0FA-19AA
-19:28:54:928 (00016984) > [Startup] 
-19:28:54:928 (00016984) > [Startup] Memory statistics:
-19:28:54:928 (00016984) > [Startup]   Total RAM = 15.7 GB (16044 MB)
-19:28:54:928 (00016984) > [Startup]   Avail RAM = 6.8 GB (6966 MB)
-19:28:54:928 (00016984) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
-19:28:54:928 (00016984) > [Startup]   Avail virtual memory = 131062.5 GB (134208029 MB)
-19:28:54:928 (00016984) > [Startup]   Total page file = 33.7 GB (34476 MB)
-19:28:54:928 (00016984) > [Startup]   Avail page file = 15.2 GB (15587 MB)
-19:28:54:928 (00016984) > [Startup] 
-19:28:54:928 (00016984) > [NxApp] PreInit
-19:28:54:928 (00016984) > [SwapChain] Initializing...
-19:28:54:928 (00016984) > [DXGI] Initializing...
-19:28:55:104 (00016984) > [NxApp] No DLSSG support - streamline disabled
-19:28:55:104 (00016984) > [NxApp] Streamline could not be initialized.
-19:28:55:104 (00016984) > [DXGI] Successfully initialized.
-19:28:55:104 (00016984) > [Render] Enumerating adapters:
-19:28:55:104 (00016984) > [Render] 	Adapter 0:
-19:28:55:104 (00016984) > [Monitor] 		Description             : NVIDIA GeForce RTX 3070 Ti Laptop GPU
-19:28:55:104 (00016984) > [Monitor] 		Vendor                  : nVidia (10de)
-19:28:55:104 (00016984) > [Monitor] 		Device                  : 24a0
-19:28:55:104 (00016984) > [Monitor] 		Sub system              : 1aec1043
-19:28:55:104 (00016984) > [Monitor] 		Revision                : 161
-19:28:55:104 (00016984) > [Monitor] 		Dedicated Video Memory  : 8032 MB
-19:28:55:104 (00016984) > [Monitor] 		Dedicated System Memory : 0000 MB
-19:28:55:104 (00016984) > [Monitor] 		Shared System Memory    : 8022 MB
-19:28:55:104 (00016984) > [Monitor] 
-19:28:55:104 (00016984) > [Render] Loading NVAPI...
-19:28:55:104 (00016984) > [Render] Done loading NVAPI
-19:28:55:104 (00016984) > [Render] 	Adapter 1:
-19:28:55:104 (00016984) > [Monitor] 		Description             : Intel(R) Iris(R) Xe Graphics
-19:28:55:104 (00016984) > [Monitor] 		Vendor                  : Intel (8086)
-19:28:55:104 (00016984) > [Monitor] 		Device                  : 46a6
-19:28:55:104 (00016984) > [Monitor] 		Sub system              : 1aec1043
-19:28:55:104 (00016984) > [Monitor] 		Revision                : 12
-19:28:55:104 (00016984) > [Monitor] 		Dedicated Video Memory  : 0128 MB
-19:28:55:104 (00016984) > [Monitor] 		Dedicated System Memory : 0000 MB
-19:28:55:104 (00016984) > [Monitor] 		Shared System Memory    : 8022 MB
-19:28:55:104 (00016984) > [Monitor] 
-19:28:55:104 (00016984) > [Render] 	Adapter 2:
-19:28:55:104 (00016984) > [Monitor] 		Description             : Microsoft Basic Render Driver
-19:28:55:104 (00016984) > [Monitor] 		Vendor                  : Unknown (1414)
-19:28:55:104 (00016984) > [Monitor] 		Device                  : 8c
-19:28:55:104 (00016984) > [Monitor] 		Sub system              : 0
-19:28:55:104 (00016984) > [Monitor] 		Revision                : 0
-19:28:55:104 (00016984) > [Monitor] 		Dedicated Video Memory  : 0000 MB
-19:28:55:104 (00016984) > [Monitor] 		Dedicated System Memory : 0000 MB
-19:28:55:104 (00016984) > [Monitor] 		Shared System Memory    : 8022 MB
-19:28:55:104 (00016984) > [Monitor] 
-19:28:55:104 (00016984) > [Render] Enumerating monitors:
-19:28:55:104 (00016984) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
-19:28:55:104 (00016984) > [Render] 
-19:28:55:104 (00016984) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
-19:28:55:105 (00016984) > [SwapChain] Successfully initialized.
-19:28:55:105 (00016984) > [Render] Enumerating Display Modes:
-19:28:55:105 (00016984) > [Render] Querying NVAPI for Surround modes
-19:28:55:222 (00016984) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
-19:28:55:222 (00016984) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3070 Ti Laptop GPU(1))' (0000000000010001):
-19:28:55:222 (00016984) > [Render] 		- Mode  0 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode  1 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode  2 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode  3 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode  4 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode  5 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode  6 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode  7 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode  8 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode  9 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 10 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 11 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 12 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 13 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 14 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 15 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 16 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 17 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 18 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 19 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 20 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 21 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 22 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 23 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 24 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 25 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 26 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 27 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 28 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 29 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 30 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 31 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 32 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 33 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 34 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 35 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 36 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 37 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 38 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 39 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 40 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 41 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 42 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 43 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 44 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 45 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 46 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 47 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 48 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 49 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 50 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 51 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 52 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 53 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 54 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 55 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 56 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 57 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 58 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 59 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 60 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 61 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 62 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 63 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 64 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 65 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 66 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 67 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 68 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 69 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 70 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 71 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 72 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 73 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 74 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 75 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 76 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 77 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 78 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 79 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 80 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 81 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 82 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 83 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 84 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 85 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 86 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 87 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 88 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 89 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 90 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 91 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 92 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 93 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 94 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 95 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 96 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 97 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 98 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 99 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 100 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 101 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 102 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 103 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 104 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 105 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 106 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 107 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 108 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 109 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 110 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 111 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 112 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 113 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 114 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 115 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 116 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 117 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 118 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 119 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 120 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 121 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 122 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 123 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 124 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 125 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 126 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 127 : 2048 x 1152 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 128 : 2048 x 1152 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 129 : 2048 x 1152 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 130 : 2048 x 1152 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 131 : 2048 x 1152 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 132 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 133 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 134 : 2560 x 1080 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 135 : 2560 x 1080 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 136 : 2560 x 1080 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 137 : 2560 x 1080 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 138 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 139 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 140 : 2560 x 1440 @ 144 Hz, stereo = 0, hdr = 0
-19:28:55:222 (00016984) > [Render] 		- Mode 141 :  800 x  600 @  75 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 142 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 143 :  800 x  600 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 144 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 145 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 146 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 147 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 148 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 149 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 150 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 151 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 152 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 153 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 154 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 155 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 156 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 157 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 158 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 159 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 160 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 161 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 162 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 163 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 164 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 165 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 166 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 167 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 168 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 169 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 170 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 171 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 172 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 173 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 174 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 175 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 176 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 177 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 178 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 179 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 180 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 181 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 182 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 183 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 184 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 185 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 186 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 187 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 188 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 189 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 190 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 191 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 192 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 193 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 194 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 195 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 196 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 197 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 198 : 2048 x 1152 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 199 : 2048 x 1152 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 200 : 2048 x 1152 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 201 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 202 : 2560 x 1080 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 203 : 2560 x 1080 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 204 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 205 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] 		- Mode 206 : 2560 x 1440 @ 144 Hz, stereo = 0, hdr = 1
-19:28:55:222 (00016984) > [Render] ***** Additional Monitor Output Info *****
-19:28:55:222 (00016984) > [Render] 		BitsPerColor: 10
-19:28:55:222 (00016984) > [Render] 		Primaries: R=0.6855;0.3086  G=0.2646;0.6680  B=0.1504;0.0576  White-Point=0.3135;0.3291
-19:28:55:222 (00016984) > [Render] 		HDR: Yes (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G2084_NONE_P2020)
-19:28:55:222 (00016984) > [Render] 		Luminance: Min=0.2465 Max=417.7118 MaxFullFrame=417.7118
-19:28:55:222 (00016984) > [Render] ******************************************
-19:28:55:222 (00016984) > [Render] 
-19:28:55:335 (00016984) > [NxApp] RAY TRACING ENABLED: Ray Tracing Tier 1.1 support detected
-19:28:55:352 (00016984) > [D3D] Max supported feature level: 11.0
-19:28:55:352 (00016984) > [Render] Disabled D3D12 experimentals
-19:28:55:397 (00016984) > [Render] VMEM Budget: 7264 MB
-19:28:55:397 (00016984) > [Render] VMEM Avaialbe: 7260 MB
-19:28:55:397 (00016984) > [Render] GPU node count: 1
-19:28:55:413 (00016984) > [NxApp] PreInit successful.
-19:28:56:167 (00016984) > [NxUpscaler] DLSS init, code = 0x00000001, info: NVSDK_NGX_Result_Success
-19:28:56:167 (00016984) > [NxUpscaler] DLSS allocate params, code = 0x00000001, info: NVSDK_NGX_Result_Success
-19:28:56:250 (00016984) > [NxUpscaler] XeSS init, code = 0
-19:28:56:284 (00016984) > [Validate settings] Changed dynamic resolution FPS target
-19:28:56:284 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:28:56:284 (00016984) > [NxApp] Querying GPU Driver Info...
-19:28:56:284 (00016984) > [NxApp] Enumerating available display adapters:
-19:28:56:310 (00016984) > [NxApp] 		Intel(R) Iris(R) Xe Graphics
-19:28:56:310 (00016984) > [NxApp] 		NVIDIA GeForce RTX 3070 Ti Laptop GPU (active)
-19:28:56:310 (00016984) > [NxApp] Successfully found GPU Driver Info
-19:28:59:081 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:04:261 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:04:268 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:04:773 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:04:788 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:05:905 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:06:971 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:06:992 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:07:004 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:09:348 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:09:358 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:09:366 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:09:372 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:10:211 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:10:226 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:10:232 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:13:444 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:13:449 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:22:539 (00016984) > [Validate Settings] No valid display mode could be found for the desktop.
-19:29:22:540 (00016984) > [NxApp] Querying GPU Driver Info...
-19:29:22:540 (00016984) > [NxApp] Enumerating available display adapters:
-19:29:22:545 (00016984) > [NxApp] 		Intel(R) Iris(R) Xe Graphics
-19:29:22:545 (00016984) > [NxApp] 		NVIDIA GeForce RTX 3070 Ti Laptop GPU (active)
-19:29:22:545 (00016984) > [NxApp] Successfully found GPU Driver Info
-19:29:22:545 (00016984) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3070 Ti Laptop GPU
-19:29:22:545 (00016984) > [NxApp] Driver Version: 528.24
-19:29:22:545 (00016984) > [**************************************************Display + Graphics Settings**************************************************] 
-19:29:22:545 (00016984) > [Settings] DirectX Version: 12
-19:29:22:545 (00016984) > [Settings] Window mode: Fullscreen
-19:29:22:545 (00016984) > [Settings] Fullscreen display mode:
-19:29:22:545 (00016984) > [Settings] 	Displaying on monitor: 0
-19:29:22:545 (00016984) > [Settings] 	Resolution: 2560x1440
-19:29:22:545 (00016984) > [Settings] 	HDR: On
-19:29:22:545 (00016984) > [Settings] 	HDR max luminance :342.914001 nits
-19:29:22:545 (00016984) > [Settings] 	HDR paper white :200.000000 nits
-19:29:22:545 (00016984) > [Settings] 	OS reported Refresh rate: 60
-19:29:22:545 (00016984) > [Settings] 	VSync: On
-19:29:22:545 (00016984) > [Settings] 	Reflex: Off
-19:29:22:545 (00016984) > [Settings] 	DLSSG: False
-19:29:22:545 (00016984) > [Settings] 	Resolution modifier 1.000000
-19:29:22:545 (00016984) > [Settings] 	Dynamic resolution FPS target: 0
-19:29:22:545 (00016984) > [Settings] Anti aliasing: TAA
+21:49:28:474 (00022004) > [Startup] Marvel's Spider-Man: Miles Morales
+21:49:28:474 (00022004) > [Startup] ==============
+21:49:28:474 (00022004) > [Startup] 
+21:49:28:474 (00022004) > [Startup] Build: v1.1116.0.0
+21:49:28:474 (00022004) > [Startup] Windows 11.0 (build 22621)
+21:49:28:474 (00022004) > [Startup] Distribution platform: Steam
+21:49:28:474 (00022004) > [Startup] Game directory: C:\Users\<username>\Documents\Marvel's Spider-Man Miles Morales\
+21:49:28:474 (00022004) > [Startup] Working directory: C:\games\Marvel's Spider-Man Miles Morales
+21:49:28:474 (00022004) > [Startup] Run ID: AC10-5DDE-53FE-2ABC
+21:49:28:474 (00022004) > [Startup] 
+21:49:28:474 (00022004) > [Startup] Memory statistics:
+21:49:28:474 (00022004) > [Startup]   Total RAM = 15.7 GB (16044 MB)
+21:49:28:474 (00022004) > [Startup]   Avail RAM = 9.1 GB (9298 MB)
+21:49:28:474 (00022004) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+21:49:28:474 (00022004) > [Startup]   Avail virtual memory = 131062.5 GB (134208029 MB)
+21:49:28:474 (00022004) > [Startup]   Total page file = 31.2 GB (31916 MB)
+21:49:28:474 (00022004) > [Startup]   Avail page file = 20.0 GB (20434 MB)
+21:49:28:474 (00022004) > [Startup] 
+21:49:28:474 (00022004) > [NxApp] PreInit
+21:49:28:474 (00022004) > [SwapChain] Initializing...
+21:49:28:474 (00022004) > [DXGI] Initializing...
+21:49:28:533 (00022004) > [NxApp] No DLSSG support - streamline disabled
+21:49:28:533 (00022004) > [NxApp] Streamline could not be initialized.
+21:49:28:534 (00022004) > [DXGI] Successfully initialized.
+21:49:28:534 (00022004) > [Render] Enumerating adapters:
+21:49:28:534 (00022004) > [Render] 	Adapter 0:
+21:49:28:534 (00022004) > [Monitor] 		Description             : NVIDIA GeForce RTX 3070 Ti Laptop GPU
+21:49:28:534 (00022004) > [Monitor] 		Vendor                  : nVidia (10de)
+21:49:28:534 (00022004) > [Monitor] 		Device                  : 24a0
+21:49:28:534 (00022004) > [Monitor] 		Sub system              : 1c921043
+21:49:28:534 (00022004) > [Monitor] 		Revision                : 161
+21:49:28:534 (00022004) > [Monitor] 		Dedicated Video Memory  : 8032 MB
+21:49:28:534 (00022004) > [Monitor] 		Dedicated System Memory : 0000 MB
+21:49:28:534 (00022004) > [Monitor] 		Shared System Memory    : 8022 MB
+21:49:28:534 (00022004) > [Monitor] 
+21:49:28:534 (00022004) > [Render] Loading NVAPI...
+21:49:28:534 (00022004) > [Render] Done loading NVAPI
+21:49:28:534 (00022004) > [Render] 	Adapter 1:
+21:49:28:534 (00022004) > [Monitor] 		Description             : Intel(R) Iris(R) Xe Graphics
+21:49:28:534 (00022004) > [Monitor] 		Vendor                  : Intel (8086)
+21:49:28:534 (00022004) > [Monitor] 		Device                  : 46a6
+21:49:28:534 (00022004) > [Monitor] 		Sub system              : 1c921043
+21:49:28:534 (00022004) > [Monitor] 		Revision                : 12
+21:49:28:534 (00022004) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+21:49:28:534 (00022004) > [Monitor] 		Dedicated System Memory : 0000 MB
+21:49:28:534 (00022004) > [Monitor] 		Shared System Memory    : 8022 MB
+21:49:28:534 (00022004) > [Monitor] 
+21:49:28:534 (00022004) > [Render] 	Adapter 2:
+21:49:28:534 (00022004) > [Monitor] 		Description             : Microsoft Basic Render Driver
+21:49:28:534 (00022004) > [Monitor] 		Vendor                  : Unknown (1414)
+21:49:28:534 (00022004) > [Monitor] 		Device                  : 8c
+21:49:28:534 (00022004) > [Monitor] 		Sub system              : 0
+21:49:28:534 (00022004) > [Monitor] 		Revision                : 0
+21:49:28:534 (00022004) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+21:49:28:534 (00022004) > [Monitor] 		Dedicated System Memory : 0000 MB
+21:49:28:534 (00022004) > [Monitor] 		Shared System Memory    : 8022 MB
+21:49:28:534 (00022004) > [Monitor] 
+21:49:28:534 (00022004) > [Render] Enumerating monitors:
+21:49:28:535 (00022004) > [Render] 	Monitor 0: handle = 00000000000204cb, aspect = 1.78, rounded aspect = 1.78
+21:49:28:535 (00022004) > [Render] 
+21:49:28:535 (00022004) > [Render] 	Monitor handle = 00000000000204cb, pixel aspect ratio = 1.00
+21:49:28:535 (00022004) > [SwapChain] Successfully initialized.
+21:49:28:535 (00022004) > [Render] Enumerating Display Modes:
+21:49:28:536 (00022004) > [Render] Querying NVAPI for Surround modes
+21:49:28:700 (00022004) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+21:49:28:700 (00022004) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3070 Ti Laptop GPU(1))' (00000000000204cb):
+21:49:28:700 (00022004) > [Render] 		- Mode  0 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode  1 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode  2 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode  3 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode  4 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode  5 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode  6 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode  7 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode  8 :  800 x  600 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode  9 :  800 x  600 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 10 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 11 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 12 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 13 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 14 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 15 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 16 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 17 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 18 : 1024 x  768 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 19 : 1024 x  768 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 20 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 21 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 22 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 23 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 24 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 25 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 26 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 27 : 1152 x  864 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 28 : 1152 x  864 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 29 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 30 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 31 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 32 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 33 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 34 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 35 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 36 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 37 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 38 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 39 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 40 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 41 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 42 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 43 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 44 : 1280 x  720 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 45 : 1280 x  720 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 46 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 47 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 48 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 49 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 50 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 51 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 52 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 53 : 1280 x  800 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 54 : 1280 x  800 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 55 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 56 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 57 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 58 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 59 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 60 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 61 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 62 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 63 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 64 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 65 : 1280 x  960 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 66 : 1280 x  960 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 67 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 68 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 69 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 70 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 71 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 72 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 73 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 74 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 75 : 1280 x 1024 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 76 : 1280 x 1024 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 77 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 78 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 79 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 80 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 81 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 82 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 83 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 84 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 85 : 1366 x  768 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 86 : 1366 x  768 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 87 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 88 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 89 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 90 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 91 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 92 : 1400 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 93 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 94 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 95 : 1400 x 1050 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 96 : 1400 x 1050 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 97 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 98 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 99 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 100 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 101 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 102 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 103 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 104 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 105 : 1600 x  900 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 106 : 1600 x  900 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 107 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 108 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 109 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 110 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 111 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 112 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 113 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 114 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 115 : 1600 x 1024 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 116 : 1600 x 1024 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 117 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 118 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 119 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 120 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 121 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 122 : 1600 x 1200 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 123 : 1600 x 1200 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 124 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 125 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 126 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 127 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 128 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 129 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 130 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 131 : 1680 x 1050 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 132 : 1680 x 1050 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 133 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 134 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 135 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 136 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 137 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 138 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 139 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 140 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 141 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 142 : 1920 x 1080 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 143 : 1920 x 1080 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 144 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 145 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 146 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 147 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 148 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 149 : 1920 x 1200 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 150 : 1920 x 1200 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 151 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 152 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 153 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 154 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 155 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 156 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 157 : 1920 x 1440 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 158 : 1920 x 1440 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 159 : 2048 x 1152 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 160 : 2048 x 1152 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:700 (00022004) > [Render] 		- Mode 161 : 2048 x 1152 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:701 (00022004) > [Render] 		- Mode 162 : 2048 x 1152 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:701 (00022004) > [Render] 		- Mode 163 : 2048 x 1152 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:701 (00022004) > [Render] 		- Mode 164 : 2048 x 1152 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:701 (00022004) > [Render] 		- Mode 165 : 2048 x 1152 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:701 (00022004) > [Render] 		- Mode 166 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
+21:49:28:701 (00022004) > [Render] 		- Mode 167 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+21:49:28:701 (00022004) > [Render] 		- Mode 168 : 2560 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+21:49:28:701 (00022004) > [Render] 		- Mode 169 : 2560 x 1440 @ 165 Hz, stereo = 0, hdr = 0
+21:49:28:701 (00022004) > [Render] ***** Additional Monitor Output Info *****
+21:49:28:701 (00022004) > [Render] 		BitsPerColor: 8
+21:49:28:701 (00022004) > [Render] 		Primaries: R=0.6855;0.3086  G=0.2646;0.6680  B=0.1504;0.0576  White-Point=0.3135;0.3291
+21:49:28:701 (00022004) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+21:49:28:701 (00022004) > [Render] 		Luminance: Min=0.2465 Max=417.7118 MaxFullFrame=417.7118
+21:49:28:701 (00022004) > [Render] ******************************************
+21:49:28:701 (00022004) > [Render] 
+21:49:28:802 (00022004) > [NxApp] RAY TRACING ENABLED: Ray Tracing Tier 1.1 support detected
+21:49:28:829 (00022004) > [D3D] Max supported feature level: 11.0
+21:49:28:829 (00022004) > [Render] Disabled D3D12 experimentals
+21:49:28:888 (00022004) > [Render] VMEM Budget: 7264 MB
+21:49:28:888 (00022004) > [Render] VMEM Avaialbe: 7260 MB
+21:49:28:888 (00022004) > [Render] GPU node count: 1
+21:49:28:904 (00022004) > [NxApp] PreInit successful.
+21:49:29:590 (00022004) > [NxUpscaler] DLSS init, code = 0x00000001, info: NVSDK_NGX_Result_Success
+21:49:29:590 (00022004) > [NxUpscaler] DLSS allocate params, code = 0x00000001, info: NVSDK_NGX_Result_Success
+21:49:29:643 (00022004) > [NxUpscaler] XeSS init, code = 0
+21:49:29:678 (00022004) > [Validate Settings] HDR output has been disabled because the current monitor does not support HDR.
+21:49:29:678 (00022004) > [NxApp] Querying GPU Driver Info...
+21:49:29:678 (00022004) > [NxApp] Enumerating available display adapters:
+21:49:29:706 (00022004) > [NxApp] 		NVIDIA GeForce RTX 3070 Ti Laptop GPU (active)
+21:49:29:706 (00022004) > [NxApp] 		Intel(R) Iris(R) Xe Graphics
+21:49:29:706 (00022004) > [NxApp] Successfully found GPU Driver Info
+21:49:29:708 (00022004) > [NxApp] Querying GPU Driver Info...
+21:49:29:708 (00022004) > [NxApp] Enumerating available display adapters:
+21:49:29:711 (00022004) > [NxApp] 		NVIDIA GeForce RTX 3070 Ti Laptop GPU (active)
+21:49:29:712 (00022004) > [NxApp] 		Intel(R) Iris(R) Xe Graphics
+21:49:29:712 (00022004) > [NxApp] Successfully found GPU Driver Info
+21:49:29:712 (00022004) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3070 Ti Laptop GPU
+21:49:29:712 (00022004) > [NxApp] Driver Version: 531.29
+21:49:29:712 (00022004) > [**************************************************Display + Graphics Settings**************************************************] 
+21:49:29:712 (00022004) > [Settings] DirectX Version: 12
+21:49:29:712 (00022004) > [Settings] Window mode: Fullscreen
+21:49:29:712 (00022004) > [Settings] Fullscreen display mode:
+21:49:29:712 (00022004) > [Settings] 	Displaying on monitor: 0
+21:49:29:712 (00022004) > [Settings] 	Resolution: 2560x1440
+21:49:29:712 (00022004) > [Settings] 	HDR: Off
+21:49:29:712 (00022004) > [Settings] 	OS reported Refresh rate: 165
+21:49:29:712 (00022004) > [Settings] 	VSync: On
+21:49:29:712 (00022004) > [Settings] 	Reflex: Off
+21:49:29:712 (00022004) > [Settings] 	DLSSG: False
+21:49:29:712 (00022004) > [Settings] 	Resolution modifier 1.000000
+21:49:29:712 (00022004) > [Settings] 	Dynamic resolution FPS target: 0
+21:49:29:712 (00022004) > [Settings] Anti aliasing: TAA
 
-19:29:22:545 (00016984) > [Settings] Upscale method: None
+21:49:29:712 (00022004) > [Settings] Upscale method: None
 
-19:29:22:545 (00016984) > [Settings] Upscale quality: Quality
+21:49:29:712 (00022004) > [Settings] Upscale quality: Quality
 
-19:29:22:545 (00016984) > [Settings] Upscale sharpen value: 0.500000
+21:49:29:712 (00022004) > [Settings] Upscale sharpen value: 0.500000
 
-19:29:22:545 (00016984) > [Settings] Graphics Options:
-19:29:22:545 (00016984) > [Settings] 	RT Reflections: On
-19:29:22:545 (00016984) > [Settings] 		RT Reflection Resolution: Very High
-19:29:22:545 (00016984) > [Settings] 		RT Geometry Detail: Very High
-19:29:22:545 (00016984) > [Settings] 		RT Object Scale: 0.600000
-19:29:22:545 (00016984) > [Settings] 	RT Shadows: High
-19:29:22:545 (00016984) > [Settings] 	Texture Quality: Ultra
-19:29:22:545 (00016984) > [Settings] 	Texture Filtering: Anisotropic8x
-19:29:22:545 (00016984) > [Settings] 	Shadow Quality: High
-19:29:22:545 (00016984) > [Settings] 	Depth of Field: High
-19:29:22:545 (00016984) > [Settings] 	Level of Detail: High
-19:29:22:545 (00016984) > [Settings] 	Vehicle Detail: High
-19:29:22:545 (00016984) > [Settings] 	Crowd Detail: High
-19:29:22:545 (00016984) > [Settings] 	Hair Quality: High
-19:29:22:545 (00016984) > [Settings] 	Ambient Occlusion: HBAO+
-19:29:22:545 (00016984) > [Settings] 	Screen Space Reflections: Normal
-19:29:22:545 (00016984) > [Settings] 	Particle Lighting: Very High
+21:49:29:712 (00022004) > [Settings] Graphics Options:
+21:49:29:712 (00022004) > [Settings] 	RT Reflections: On
+21:49:29:712 (00022004) > [Settings] 		RT Reflection Resolution: High
+21:49:29:712 (00022004) > [Settings] 		RT Geometry Detail: High
+21:49:29:712 (00022004) > [Settings] 		RT Object Scale: 0.600000
+21:49:29:712 (00022004) > [Settings] 	RT Shadows: Medium
+21:49:29:712 (00022004) > [Settings] 	Texture Quality: Ultra
+21:49:29:712 (00022004) > [Settings] 	Texture Filtering: Anisotropic8x
+21:49:29:712 (00022004) > [Settings] 	Shadow Quality: High
+21:49:29:712 (00022004) > [Settings] 	Depth of Field: High
+21:49:29:712 (00022004) > [Settings] 	Level of Detail: High
+21:49:29:712 (00022004) > [Settings] 	Vehicle Detail: High
+21:49:29:712 (00022004) > [Settings] 	Crowd Detail: High
+21:49:29:712 (00022004) > [Settings] 	Hair Quality: High
+21:49:29:712 (00022004) > [Settings] 	Ambient Occlusion: SSAO
+21:49:29:712 (00022004) > [Settings] 	Screen Space Reflections: Normal
+21:49:29:712 (00022004) > [Settings] 	Particle Lighting: High
 
-19:29:22:545 (00016984) > [Settings] 	Bloom: On
-19:29:22:545 (00016984) > [Settings] 	Vignette: On
-19:29:22:545 (00016984) > [Settings] 	Chromatic Aberration: On
-19:29:22:545 (00016984) > [Settings] 	Motion Blur: 1.000000
-19:29:22:545 (00016984) > [Settings] 	FOV Correction: 1.000000
-19:29:22:545 (00016984) > [Settings] 	Film Grain Strength: 1.000000
-19:29:22:545 (00016984) > [Settings] 	Sharpness: 1.000000
-19:29:22:545 (00016984) > [Settings] 	Lens Flares: On
-19:29:22:545 (00016984) > [Settings] 	Screen Effects: On
-19:29:22:545 (00016984) > [**************************************************Display + Graphics Settings**************************************************] 
-19:29:22:545 (00016984) > [NxApp] Creating window...
-19:29:22:550 (00006544) > [GameWindow] UpdateState bVisible true
-19:29:22:565 (00006544) > [Input] Keyboard language: "English (Canada)" (id: 4105)
-19:29:22:565 (00006544) > [Input] Keyboard physical layout: "US" (id: 00000409)
-19:29:22:565 (00006544) > [Input] Human Input Device  ""   product 45108 vendor 1133 version 3 usage 514 usagePage 65347
-19:29:22:565 (00006544) > [Input] Mouse               ""   id 256 buttons 16 sampleRate 0 horizontalWheel no
-19:29:22:565 (00006544) > [Input] Joystick            ""   product 311 vendor 9456 version 256 usage 1 usagePage 12 xinput no
-19:29:22:565 (00006544) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 113
-19:29:22:565 (00006544) > [Input] Failed to retrieve setup device 4.
-19:29:22:565 (00006544) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 12 usagePage 1 xinput no
-19:29:22:565 (00006544) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 1 usagePage 12 xinput no
-19:29:22:565 (00006544) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 121 usagePage 65329 xinput no
-19:29:22:565 (00006544) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 118 usagePage 65329 xinput no
-19:29:22:566 (00006544) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
-19:29:22:566 (00006544) > [Input] Human Input Device  "ASUS Precision Touchpad"   product 12699 vendor 1267 version 2 usage 5 usagePage 13
-19:29:22:566 (00006544) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 2 sampleRate 0 horizontalWheel no
-19:29:22:566 (00006544) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
-19:29:22:566 (00006544) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 488
-19:29:22:566 (00006544) > [Input] Keyboard            "PC/AT Enhanced PS/2 Keyboard (101/102-Key)"   type 4 subType 0 mode 1 function 12 indicators 3 total 101
-19:29:22:573 (00006544) > [Input] Using LibScePad
-19:29:22:575 (00006544) > [XInput] Enumerating available xusb hid devices:
+21:49:29:712 (00022004) > [Settings] 	Bloom: On
+21:49:29:712 (00022004) > [Settings] 	Vignette: On
+21:49:29:712 (00022004) > [Settings] 	Chromatic Aberration: On
+21:49:29:712 (00022004) > [Settings] 	Motion Blur: 1.000000
+21:49:29:712 (00022004) > [Settings] 	FOV Correction: 1.000000
+21:49:29:712 (00022004) > [Settings] 	Film Grain Strength: 1.000000
+21:49:29:712 (00022004) > [Settings] 	Sharpness: 1.000000
+21:49:29:712 (00022004) > [Settings] 	Lens Flares: On
+21:49:29:712 (00022004) > [Settings] 	Screen Effects: On
+21:49:29:712 (00022004) > [**************************************************Display + Graphics Settings**************************************************] 
+21:49:29:713 (00022004) > [NxApp] Creating window...
+21:49:29:716 (00001712) > [GameWindow] UpdateState bVisible true
+21:49:29:731 (00001712) > [Input] Keyboard language: "English (Canada)" (id: 4105)
+21:49:29:732 (00001712) > [Input] Keyboard physical layout: "US" (id: 00000409)
+21:49:29:732 (00001712) > [Input] Joystick            "Wireless Controller"   product 1476 vendor 1356 version 256 usage 5 usagePage 1 xinput no
+21:49:29:732 (00001712) > [Input] Joystick            ""   product 50504 vendor 1133 version 1281 usage 2 usagePage 65280 xinput no
+21:49:29:732 (00001712) > [Input] Joystick            ""   product 50504 vendor 1133 version 1281 usage 1 usagePage 65280 xinput no
+21:49:29:732 (00001712) > [Input] Joystick            ""   product 50504 vendor 1133 version 1281 usage 1 usagePage 12 xinput no
+21:49:29:732 (00001712) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 128
+21:49:29:732 (00001712) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 16 sampleRate 0 horizontalWheel no
+21:49:29:732 (00001712) > [Input] Joystick            ""   product 311 vendor 9456 version 256 usage 1 usagePage 12 xinput no
+21:49:29:732 (00001712) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 113
+21:49:29:732 (00001712) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 12 usagePage 1 xinput no
+21:49:29:732 (00001712) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 1 usagePage 12 xinput no
+21:49:29:732 (00001712) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 121 usagePage 65329 xinput no
+21:49:29:732 (00001712) > [Input] Joystick            ""   product 6582 vendor 2821 version 792 usage 118 usagePage 65329 xinput no
+21:49:29:732 (00001712) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+21:49:29:732 (00001712) > [Input] Human Input Device  "ASUS Precision Touchpad"   product 12699 vendor 1267 version 2 usage 5 usagePage 13
+21:49:29:732 (00001712) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 488
+21:49:29:732 (00001712) > [Input] Keyboard            "PC/AT Enhanced PS/2 Keyboard (101/102-Key)"   type 4 subType 0 mode 1 function 12 indicators 3 total 101
+21:49:29:732 (00001712) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 2 sampleRate 0 horizontalWheel no
+21:49:29:732 (00001712) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+21:49:29:738 (00001712) > [Input] Using LibScePad
+21:49:29:740 (00001712) > [XInput] Enumerating available xusb hid devices:
 
-19:29:22:593 (00016984) > [NxApp] Window created.
-19:29:22:593 (00016984) > [NxApp] Initializing swapchain...
-19:29:22:593 (00022680) > [SwapChain] Creating...
-19:29:22:593 (00022680) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
-19:29:22:609 (00022680) > [DXGI] Created swapchain.
-19:29:22:640 (00022680) > [SwapChain] Gamma correction is enabled.
-19:29:22:640 (00022680) > [SwapChain] Successfully created.
-19:29:22:640 (00022680) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
-19:29:22:640 (00016984) > [NxApp] Swapchain initialized
-19:29:22:640 (00016984) > [NxApp] Initializing renderer...
-19:29:22:640 (00016984) > [NxApp] Renderer initialized
-19:29:22:640 (00016984) > [NxProcessorInfo] Processor info:
-19:29:22:640 (00016984) > [NxProcessorInfo] 	Physical Core Count:     	14
-19:29:22:640 (00016984) > [NxProcessorInfo] 		Performance Core Count:   6
-19:29:22:640 (00016984) > [NxProcessorInfo] 		Efficiency  Core Count:   8
-19:29:22:640 (00016984) > [NxProcessorInfo] 	Logical  Core Count:     	20
-19:29:22:640 (00016984) > [NxProcessorInfo] 	Distinct L3 Cache Count: 	1
-19:29:22:640 (00016984) > [NxProcessorInfo] Custom affinity 0 selected.
-19:29:22:681 (00016984) > [Render] File cache.pso contains 9564 pipelines and 0 duplicates
-19:29:22:684 (00016984) > [Render] File C:\Users\<username>\AppData\Roaming\Insomniac Games\Marvel's Spider-Man Miles Morales\\cache.pso contains 21 pipelines and 0 duplicates
-19:29:22:684 (00016984) > [Render] Support for Shader Model 6.6: Yes
-19:29:22:684 (00016984) > [Render] Is UMA: No Is Cache Coherent: No
-19:29:22:684 (00016984) > [Render] Using Cpu Buffer Optimize: No
-19:29:26:725 (00008608) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
-19:29:26:773 (00018984) > [PSN] AuthenticationRequest: 400
-19:29:28:173 (00026800) > [Save] Request type 3 failed with code 0x00000002
-19:29:28:212 (00026800) > [Save] Request type 3 failed with code 0x00000002
-19:29:28:217 (00016984) > [Save] Request load save type 0, control 128, target -1
-19:29:28:233 (00026800) > [Save] Request type 3 failed with code 0x00000002
-19:29:28:268 (00016984) > [Save] Request load save type 0, control 128, target -1
-19:29:28:284 (00026800) > [Save] Request type 3 failed with code 0x00000002
-19:29:28:318 (00016984) > [Save] Request load save type 0, control 128, target -1
-19:29:28:346 (00026800) > [Save] Request type 3 failed with code 0x00000002
-19:29:28:372 (00016984) > [Save] Request load save type 0, control 128, target -1
-19:29:28:387 (00026800) > [Save] Request type 3 failed with code 0x00000002
-19:29:28:400 (00016984) > [Save] Request load save type 0, control 128, target -1
-19:29:28:418 (00026800) > [Save] Request type 3 failed with code 0x00000002
-19:29:28:451 (00016984) > [Save] Request load save type 0, control 128, target -1
-19:29:46:265 (00016984) > [Save] Request load save type 0, control 128, target -1
-19:29:58:472 (00008608) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
-19:29:58:479 (00008608) > [Audio] Device removed 0x0
-19:29:58:510 (00008608) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
-19:29:58:510 (00008608) > [Audio] Device removed 0x0
-19:29:58:529 (00008608) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
-19:30:26:222 (00015576) > [Render] Working set: 5835MB Page file: 15584MB Video Budget: 7242MB Video Usage: 7095MB Sys Budget: 7365MB Sys Usage: 1315MB Tex Usage: 2584MB Tex Budget: 3874MB BVH heaps: 880MB BVH size: 870MB Demoted: 407MB fps: 48.033337
-19:30:46:948 (00016984) > [Save] Request save type 0, control 0
-19:30:46:948 (00016984) > [Save] Request save type 0, control 0
-19:31:00:233 (00016984) > [GameWindow] Window close requested
-19:31:00:254 (00016984) > [App] Quit request confirmed by user
-19:31:00:495 (00008608) > [Audio] Device removed 0x0
-19:31:00:670 (00016984) > [NxApp] Destroying
-19:31:00:820 (00016984) > [DXGI] Destroyed swapchain.
-19:31:00:820 (00016984) > [SwapChain] Destroyed.
-19:31:00:820 (00016984) > [SwapChain] Released.
-19:31:00:820 (00016984) > [Render] Unloading NVAPI
-19:31:00:821 (00016984) > [Render] Done unloading NVAPI
-19:31:00:822 (00016984) > [DXGI] Destroyed swapchain.
-19:31:00:822 (00016984) > [DXGI] Released.
+21:49:29:760 (00022004) > [NxApp] Window created.
+21:49:29:760 (00022004) > [NxApp] Initializing swapchain...
+21:49:29:760 (00001712) > [Input] new Windows.Gaming.Input raw-controller found 54c 5c4
+
+21:49:29:760 (00013960) > [SwapChain] Creating...
+21:49:29:760 (00013960) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:49:29:771 (00013960) > [DXGI] Created swapchain.
+21:49:29:804 (00013960) > [SwapChain] Gamma correction is enabled.
+21:49:29:804 (00013960) > [SwapChain] Successfully created.
+21:49:29:804 (00013960) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:49:29:804 (00022004) > [NxApp] Swapchain initialized
+21:49:29:804 (00022004) > [NxApp] Initializing renderer...
+21:49:29:804 (00022004) > [NxApp] Renderer initialized
+21:49:29:804 (00022004) > [NxProcessorInfo] Processor info:
+21:49:29:804 (00022004) > [NxProcessorInfo] 	Physical Core Count:     	14
+21:49:29:804 (00022004) > [NxProcessorInfo] 		Performance Core Count:   6
+21:49:29:804 (00022004) > [NxProcessorInfo] 		Efficiency  Core Count:   8
+21:49:29:804 (00022004) > [NxProcessorInfo] 	Logical  Core Count:     	20
+21:49:29:804 (00022004) > [NxProcessorInfo] 	Distinct L3 Cache Count: 	1
+21:49:29:804 (00022004) > [NxProcessorInfo] Custom affinity 0 selected.
+21:49:29:847 (00022004) > [Render] File cache.pso contains 9564 pipelines and 0 duplicates
+21:49:29:851 (00022004) > [Render] File C:\Users\<username>\AppData\Roaming\Insomniac Games\Marvel's Spider-Man Miles Morales\\cache.pso contains 6 pipelines and 0 duplicates
+21:49:29:851 (00022004) > [Render] Support for Shader Model 6.6: Yes
+21:49:29:851 (00022004) > [Render] Is UMA: No Is Cache Coherent: No
+21:49:29:851 (00022004) > [Render] Using Cpu Buffer Optimize: No
+21:49:32:620 (00011228) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+21:49:32:659 (00025020) > [PSN] AuthenticationRequest: 400
+21:49:32:752 (00022004) > [Input] Windows.Gaming.Input controller connected. index: 0
+21:49:32:752 (00022004) > [Input] Sce controller connected. handle: 257
+21:49:32:767 (00022004) > [Audio] Sce-Controller HID\VID_054C&PID_05C4&REV_0100 with handle 257 doesn't support audio
+21:49:32:767 (00022004) > [Input] Gamepads connected: 0 -> 2
+21:49:32:768 (00022004) > [Input] Gamepad for main player: 0
+21:49:32:781 (00022004) > [Input] Windows.Gaming.Input controller disconnected, ignoring PS4 controller. index: 0
+21:49:32:781 (00022004) > [Input] Gamepads connected: 2 -> 1
+21:49:32:781 (00022004) > [Input] Gamepad for main player: 12
+21:49:34:068 (00024360) > [Save] Request type 3 failed with code 0x00000002
+21:49:34:082 (00024360) > [Save] Request type 3 failed with code 0x00000002
+21:49:34:089 (00022004) > [Save] Request load save type 0, control 128, target -1
+21:49:34:095 (00024360) > [Save] Request type 3 failed with code 0x00000002
+21:49:34:111 (00022004) > [Save] Request load save type 0, control 128, target -1
+21:49:34:115 (00024360) > [Save] Request type 3 failed with code 0x00000002
+21:49:34:125 (00022004) > [Save] Request load save type 0, control 128, target -1
+21:49:34:130 (00024360) > [Save] Request type 3 failed with code 0x00000002
+21:49:34:143 (00022004) > [Save] Request load save type 0, control 128, target -1
+21:49:34:149 (00024360) > [Save] Request type 3 failed with code 0x00000002
+21:49:34:160 (00022004) > [Save] Request load save type 0, control 128, target -1
+21:49:34:167 (00024360) > [Save] Request type 3 failed with code 0x00000002
+21:49:34:459 (00022004) > [Save] Request load save type 0, control 128, target -1
+21:49:38:470 (00011228) > [Audio] Sce-Controller HID\VID_054C&PID_05C4&REV_0100 with handle 257 doesn't support audio
+21:49:47:404 (00022004) > [Save] Request load save type 0, control 128, target -1
+21:50:22:235 (00013960) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+21:50:22:244 (00013960) > [DXGI] Resized swapchain.
+21:50:22:283 (00025508) > [Settings] New display settings are:
+21:50:22:283 (00025508) > [**************************************************Display + Graphics Settings**************************************************] 
+21:50:22:283 (00025508) > [Settings] DirectX Version: 12
+21:50:22:283 (00025508) > [Settings] Window mode: Fullscreen
+21:50:22:283 (00025508) > [Settings] Fullscreen display mode:
+21:50:22:283 (00025508) > [Settings] 	Displaying on monitor: 0
+21:50:22:283 (00025508) > [Settings] 	Resolution: 1920x1080
+21:50:22:283 (00025508) > [Settings] 	HDR: Off
+21:50:22:284 (00025508) > [Settings] 	OS reported Refresh rate: 165
+21:50:22:284 (00025508) > [Settings] 	VSync: On
+21:50:22:284 (00025508) > [Settings] 	Reflex: Off
+21:50:22:284 (00025508) > [Settings] 	DLSSG: False
+21:50:22:284 (00025508) > [Settings] 	Resolution modifier 1.000000
+21:50:22:284 (00025508) > [Settings] 	Dynamic resolution FPS target: 0
+21:50:22:284 (00025508) > [Settings] Anti aliasing: TAA
+
+21:50:22:284 (00025508) > [Settings] Upscale method: None
+
+21:50:22:284 (00025508) > [Settings] Upscale quality: Quality
+
+21:50:22:284 (00025508) > [Settings] Upscale sharpen value: 0.500000
+
+21:50:22:284 (00025508) > [Settings] Graphics Options:
+21:50:22:284 (00025508) > [Settings] 	RT Reflections: On
+21:50:22:284 (00025508) > [Settings] 		RT Reflection Resolution: High
+21:50:22:284 (00025508) > [Settings] 		RT Geometry Detail: High
+21:50:22:284 (00025508) > [Settings] 		RT Object Scale: 0.600000
+21:50:22:284 (00025508) > [Settings] 	RT Shadows: Medium
+21:50:22:284 (00025508) > [Settings] 	Texture Quality: Ultra
+21:50:22:284 (00025508) > [Settings] 	Texture Filtering: Anisotropic8x
+21:50:22:284 (00025508) > [Settings] 	Shadow Quality: High
+21:50:22:284 (00025508) > [Settings] 	Depth of Field: High
+21:50:22:284 (00025508) > [Settings] 	Level of Detail: High
+21:50:22:284 (00025508) > [Settings] 	Vehicle Detail: High
+21:50:22:284 (00025508) > [Settings] 	Crowd Detail: High
+21:50:22:284 (00025508) > [Settings] 	Hair Quality: High
+21:50:22:284 (00025508) > [Settings] 	Ambient Occlusion: SSAO
+21:50:22:284 (00025508) > [Settings] 	Screen Space Reflections: Normal
+21:50:22:284 (00025508) > [Settings] 	Particle Lighting: High
+
+21:50:22:284 (00025508) > [Settings] 	Bloom: On
+21:50:22:284 (00025508) > [Settings] 	Vignette: On
+21:50:22:284 (00025508) > [Settings] 	Chromatic Aberration: On
+21:50:22:284 (00025508) > [Settings] 	Motion Blur: 1.000000
+21:50:22:284 (00025508) > [Settings] 	FOV Correction: 1.000000
+21:50:22:284 (00025508) > [Settings] 	Film Grain Strength: 1.000000
+21:50:22:284 (00025508) > [Settings] 	Sharpness: 1.000000
+21:50:22:284 (00025508) > [Settings] 	Lens Flares: On
+21:50:22:284 (00025508) > [Settings] 	Screen Effects: On
+21:50:22:284 (00025508) > [**************************************************Display + Graphics Settings**************************************************] 
+21:50:22:284 (00025508) > [Settings] End of settings.
+21:50:22:284 (00025508) > [NxApp (Render Thread)] Finished enforcing display settings
+21:50:22:286 (00022004) > [NxApp] Finished enforcing display settings
+21:50:24:170 (00022004) > [Save] Request save type 0, control 0
+21:50:33:894 (00008948) > [Render] Working set: 5528MB Page file: 14787MB Video Budget: 7165MB Video Usage: 6432MB Sys Budget: 7365MB Sys Usage: 890MB Tex Usage: 2205MB Tex Budget: 3874MB BVH heaps: 816MB BVH size: 803MB Demoted: 0MB fps: 29.933334
+21:51:33:931 (00008948) > [Render] Working set: 6016MB Page file: 15823MB Video Budget: 7241MB Video Usage: 6945MB Sys Budget: 7365MB Sys Usage: 1244MB Tex Usage: 2902MB Tex Budget: 3874MB BVH heaps: 816MB BVH size: 736MB Demoted: 201MB fps: 50.166668
+21:51:48:810 (00011228) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+21:51:48:812 (00011228) > [Audio] Device removed 0x0
+21:51:48:861 (00011228) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+21:51:48:861 (00011228) > [Audio] Device removed 0x0
+21:51:48:911 (00011228) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+21:52:33:941 (00008948) > [Render] Working set: 6980MB Page file: 16834MB Video Budget: 7225MB Video Usage: 6992MB Sys Budget: 7365MB Sys Usage: 2057MB Tex Usage: 3571MB Tex Budget: 3874MB BVH heaps: 912MB BVH size: 869MB Demoted: 887MB fps: 25.633335
+21:53:33:957 (00008948) > [Render] Working set: 7568MB Page file: 17231MB Video Budget: 7210MB Video Usage: 6921MB Sys Budget: 7365MB Sys Usage: 2437MB Tex Usage: 3869MB Tex Budget: 3874MB BVH heaps: 912MB BVH size: 809MB Demoted: 1267MB fps: 29.716669
+21:54:34:003 (00008948) > [Render] Working set: 7621MB Page file: 17260MB Video Budget: 7238MB Video Usage: 6968MB Sys Budget: 7365MB Sys Usage: 2277MB Tex Usage: 3814MB Tex Budget: 3874MB BVH heaps: 864MB BVH size: 827MB Demoted: 1106MB fps: 29.933334
+21:55:11:626 (00022004) > [Save] Request save type 0, control 0
+21:55:11:669 (00022004) > [Save] Request save type 0, control 0
+21:55:11:695 (00022004) > [Save] Request save type 0, control 0
+21:55:11:701 (00022004) > [Save] Request save type 0, control 0
+21:55:11:729 (00022004) > [Save] Request save type 0, control 256
+21:55:34:028 (00008948) > [Render] Working set: 7803MB Page file: 17406MB Video Budget: 7238MB Video Usage: 6897MB Sys Budget: 7365MB Sys Usage: 2417MB Tex Usage: 3866MB Tex Budget: 3874MB BVH heaps: 928MB BVH size: 918MB Demoted: 1246MB fps: 29.850002
+21:56:34:040 (00008948) > [Render] Working set: 7960MB Page file: 17149MB Video Budget: 7253MB Video Usage: 6970MB Sys Budget: 7365MB Sys Usage: 2335MB Tex Usage: 3866MB Tex Budget: 3874MB BVH heaps: 928MB BVH size: 918MB Demoted: 1164MB fps: 29.933334
+21:57:34:050 (00008948) > [Render] Working set: 7950MB Page file: 17148MB Video Budget: 7223MB Video Usage: 6970MB Sys Budget: 7365MB Sys Usage: 2335MB Tex Usage: 3866MB Tex Budget: 3874MB BVH heaps: 928MB BVH size: 918MB Demoted: 1164MB fps: 29.950001
+21:58:34:060 (00008948) > [Render] Working set: 7950MB Page file: 17148MB Video Budget: 7238MB Video Usage: 6970MB Sys Budget: 7365MB Sys Usage: 2335MB Tex Usage: 3866MB Tex Budget: 3874MB BVH heaps: 928MB BVH size: 918MB Demoted: 1164MB fps: 29.866669
+21:59:34:062 (00008948) > [Render] Working set: 7929MB Page file: 17148MB Video Budget: 7223MB Video Usage: 6975MB Sys Budget: 7365MB Sys Usage: 2335MB Tex Usage: 3866MB Tex Budget: 3874MB BVH heaps: 928MB BVH size: 918MB Demoted: 1164MB fps: 29.766668
+22:00:34:076 (00008948) > [Render] Working set: 7900MB Page file: 17147MB Video Budget: 7238MB Video Usage: 6972MB Sys Budget: 7365MB Sys Usage: 2335MB Tex Usage: 3866MB Tex Budget: 3874MB BVH heaps: 928MB BVH size: 918MB Demoted: 1164MB fps: 29.950001
+22:00:40:700 (00022004) > [GameWindow] Window close requested
+22:00:41:366 (00022004) > [App] Quit request confirmed by user
+22:00:41:792 (00022004) > [Save] Request save type 0, control 0
+22:00:42:346 (00011228) > [Audio] Device removed 0x0
+22:00:42:668 (00022004) > [NxApp] Destroying
+22:00:42:780 (00022004) > [DXGI] Destroyed swapchain.
+22:00:42:781 (00022004) > [SwapChain] Destroyed.
+22:00:42:781 (00022004) > [SwapChain] Released.
+22:00:42:781 (00022004) > [Render] Unloading NVAPI
+22:00:42:781 (00022004) > [Render] Done unloading NVAPI
+22:00:42:782 (00022004) > [DXGI] Destroyed swapchain.
+22:00:42:782 (00022004) > [DXGI] Released.
 --- NIXXES log closed ---
